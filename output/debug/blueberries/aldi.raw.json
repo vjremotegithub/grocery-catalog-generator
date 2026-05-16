@@ -1,0 +1,48 @@
+{
+  "options": [
+    {
+      "name": "Blueberries",
+      "brand": "Nature's Pick",
+      "size": "0.15 KG",
+      "unit": "KG",
+      "price": 1.59,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK Blueberries 0.15 KG (£10.60/1 KG) £1.59"
+    },
+    {
+      "name": "Blueberries",
+      "brand": "Nature's Pick",
+      "size": "0.5 KG",
+      "unit": "KG",
+      "price": 3.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK Blueberries 0.5 KG (£7.98/1 KG) £3.99"
+    },
+    {
+      "name": "Wonky Blueberries",
+      "brand": "Everyday Essentials",
+      "size": "0.125 KG",
+      "unit": "KG",
+      "price": 1.19,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "EVERYDAY ESSENTIALS Wonky Blueberries 0.125 KG (£9.52/1 KG) £1.19"
+    },
+    {
+      "name": "Frozen Blueberries",
+      "brand": "Four Seasons",
+      "size": "0.4 KG",
+      "unit": "KG",
+      "price": 1.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "FOUR SEASONS Frozen Blueberries 0.4 KG (£4.98/1 KG) £1.99"
+    }
+  ]
+}

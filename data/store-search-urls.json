@@ -1,0 +1,14 @@
+{
+  "tesco": {
+    "brand": "Tesco",
+    "searchUrl": "https://www.tesco.com/shop/en-GB/search?query={query}&inputType=free+text"
+  },
+  "sainsburys": {
+    "brand": "Sainsbury's",
+    "searchUrl": "https://www.sainsburys.co.uk/gol-ui/SearchResults/{query}"
+  },
+  "aldi": {
+    "brand": "Aldi",
+    "searchUrl": "https://www.aldi.co.uk/results?q={query}"
+  }
+}

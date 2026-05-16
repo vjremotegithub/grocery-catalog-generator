@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Sainsbury's Chopped Tomatoes",
+      "brand": "Sainsbury's",
+      "size": "400g",
+      "unit": "g",
+      "price": 0.47,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Chopped Tomatoes 400g 47p £1.18 / kg"
+    },
+    {
+      "name": "Stamford Street Co. Chopped Tomatoes in Tomato Juice",
+      "brand": "Stamford Street Co.",
+      "size": "400g",
+      "unit": "g",
+      "price": 0.43,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Stamford Street Co. Chopped Tomatoes in Tomato Juice 400g 43p £1.08 / kg"
+    },
+    {
+      "name": "Napolina Chopped Tomatoes",
+      "brand": "Napolina",
+      "size": "400g",
+      "unit": "g",
+      "price": 1,
+      "loyaltyPrice": 0.75,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Napolina Chopped Tomatoes 400g £1.00 £2.50 / kg Save 25% with Nectar"
+    },
+    {
+      "name": "Cirio Chopped Tomatoes",
+      "brand": "Cirio",
+      "size": "400g",
+      "unit": "g",
+      "price": 1.3,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Cirio Chopped Tomatoes 400g £1.30 £3.25 / kg"
+    },
+    {
+      "name": "KTC Chopped Tomatoes",
+      "brand": "KTC",
+      "size": "400g",
+      "unit": "g",
+      "price": 0.65,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "KTC Chopped Tomatoes 400g 65p £1.63 / kg"
+    }
+  ]
+}

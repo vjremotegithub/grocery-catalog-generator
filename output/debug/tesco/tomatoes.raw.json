@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Tesco Baby Plum Tomatoes",
+      "brand": "Tesco",
+      "size": "300g",
+      "unit": "pack",
+      "price": 0.9,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Baby Plum Tomatoes 300G £0.90 £3.00/kg"
+    },
+    {
+      "name": "Tesco Classic Round Tomatoes",
+      "brand": "Tesco",
+      "size": "6 Pack",
+      "unit": "pack",
+      "price": 0.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Classic Round Tomatoes 6 Pack £0.99 £0.16/each"
+    },
+    {
+      "name": "Tesco Cherry Tomatoes",
+      "brand": "Tesco",
+      "size": "300g",
+      "unit": "pack",
+      "price": 1,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Cherry Tomatoes 300G £1.00 £3.33/kg"
+    },
+    {
+      "name": "Tesco Tomatoes On The Vine",
+      "brand": "Tesco",
+      "size": "500g",
+      "unit": "pack",
+      "price": 1.4,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Tomatoes On The Vine 500G £1.40 £2.80/kg"
+    },
+    {
+      "name": "Grower's Harvest Chopped Tomatoes",
+      "brand": "Grower's Harvest",
+      "size": "400g",
+      "unit": "can",
+      "price": 0.43,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Grower's Harvest Chopped Tomatoes 400G £0.43 £1.08/kg"
+    }
+  ]
+}

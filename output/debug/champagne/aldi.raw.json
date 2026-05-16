@@ -1,0 +1,26 @@
+{
+  "options": [
+    {
+      "name": "Champagne Brut",
+      "brand": "Veuve Monsigny",
+      "size": "75 CL",
+      "unit": "bottle",
+      "price": 15.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "VEUVE MONSIGNY Champagne Brut 75 CL (£15.99/75 CL) £15.99"
+    },
+    {
+      "name": "Champagne Brut",
+      "brand": "Nicolas de Montbart",
+      "size": "75 CL",
+      "unit": "bottle",
+      "price": 13.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NICOLAS DE MONTBART Champagne Brut 75 CL (£13.99/75 CL) £13.99"
+    }
+  ]
+}

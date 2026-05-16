@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Fusilli Pasta Twists",
+      "brand": "Tesco",
+      "size": "1kg",
+      "unit": "kg",
+      "price": 1.19,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Fusilli Pasta Twists 1kg £1.19"
+    },
+    {
+      "name": "Rigatoni Pasta",
+      "brand": "Tesco",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Rigatoni Pasta 500G £0.75"
+    },
+    {
+      "name": "Fusilli Pasta",
+      "brand": "Tesco",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Fusilli Pasta 500G £0.75"
+    },
+    {
+      "name": "Penne Pasta Quills",
+      "brand": "Tesco",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Penne Pasta Quills 500G £0.69"
+    },
+    {
+      "name": "Spiral Pasta",
+      "brand": "Tesco",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Spiral Pasta 500G £0.75"
+    }
+  ]
+}

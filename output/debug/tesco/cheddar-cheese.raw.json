@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Tesco Mature Cheddar",
+      "brand": "Tesco",
+      "size": "400G",
+      "unit": "g",
+      "price": 3.25,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Mature Cheddar 400G £3.25 £8.12/kg"
+    },
+    {
+      "name": "Cathedral City Mature Cheddar Cheese",
+      "brand": "Cathedral City",
+      "size": "350G",
+      "unit": "g",
+      "price": 2.99,
+      "loyaltyPrice": 2.65,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Cathedral City Mature Cheddar Cheese 350G £2.99 Clubcard Price £2.65 £7.57/kg"
+    },
+    {
+      "name": "Tesco Mature Cheddar",
+      "brand": "Tesco",
+      "size": "700G",
+      "unit": "g",
+      "price": 4.65,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Mature Cheddar 700G £4.65 £6.64/kg"
+    },
+    {
+      "name": "Tesco British Mature Cheddar Cheese",
+      "brand": "Tesco",
+      "size": "220G",
+      "unit": "g",
+      "price": 2.5,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco British Mature Cheddar Cheese 220G £2.50 £11.36/kg"
+    },
+    {
+      "name": "Cathedral City Mature Cheddar Cheese",
+      "brand": "Cathedral City",
+      "size": "550G",
+      "unit": "g",
+      "price": 4.65,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Cathedral City Mature Cheddar Cheese 550G £4.65 £8.46/kg"
+    }
+  ]
+}

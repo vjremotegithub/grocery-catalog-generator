@@ -1,0 +1,15 @@
+{
+  "options": [
+    {
+      "name": "Premium Toothbrush",
+      "brand": "Dentitex",
+      "size": "2 Each",
+      "unit": "each",
+      "price": 0.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "DENTITEX Premium Toothbrush 2 Each (£0.50/1 Each) £0.99"
+    }
+  ]
+}

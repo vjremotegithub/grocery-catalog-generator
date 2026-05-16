@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Tesco Medium Free Range Eggs 12 Pack",
+      "brand": "Tesco",
+      "size": "12 Pack",
+      "unit": null,
+      "price": 2.85,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Medium Free Range Eggs 12 Pack £2.85 £0.24/each"
+    },
+    {
+      "name": "Happy Egg Free Range Eggs Large 10 Pack",
+      "brand": "Happy Egg",
+      "size": "10 Pack",
+      "unit": null,
+      "price": 3.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Happy Egg Free Range Eggs Large 10 Pack £3.75 £0.38/each"
+    },
+    {
+      "name": "Happy Egg Free Range Eggs Medium 6 Pack",
+      "brand": "Happy Egg",
+      "size": "6 Pack",
+      "unit": null,
+      "price": 2.35,
+      "loyaltyPrice": 2,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Happy Egg Free Range Eggs Medium 6 Pack £2.35 £0.39/each Clubcard Price £2.00 Clubcard Price (£0.33/each)"
+    },
+    {
+      "name": "Big & Free Large White Free Range Eggs 10 Pack",
+      "brand": "Big & Free",
+      "size": "10 Pack",
+      "unit": null,
+      "price": 3.35,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Big & Free Large White Free Range Eggs 10 Pack £3.35 £0.34/each"
+    },
+    {
+      "name": "St Ewe Original Large Free Range Eggs 10 Pack",
+      "brand": "St Ewe",
+      "size": "10 Pack",
+      "unit": null,
+      "price": 3.95,
+      "loyaltyPrice": 3.5,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "St Ewe Original Large Free Range Eggs 10 Pack £3.95 £0.40/each Clubcard Price £3.50 Clubcard Price (£0.35/each)"
+    }
+  ]
+}

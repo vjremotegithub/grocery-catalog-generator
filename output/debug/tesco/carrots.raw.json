@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Tesco Carrots 1Kg",
+      "brand": "Tesco",
+      "size": "1Kg",
+      "unit": "Kg",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Carrots 1Kg £0.69 £0.69/kg"
+    },
+    {
+      "name": "Tesco Carrots Loose",
+      "brand": "Tesco",
+      "size": null,
+      "unit": null,
+      "price": 0.11,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Carrots Loose £0.11 £0.69/kg"
+    },
+    {
+      "name": "Tesco Carrots 500g",
+      "brand": "Tesco",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.55,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Carrots 500g £0.55 £1.10/kg"
+    },
+    {
+      "name": "Tesco Carrot Batons 400G",
+      "brand": "Tesco",
+      "size": "400G",
+      "unit": "g",
+      "price": 1.1,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Carrot Batons 400G £1.10 £2.75/kg"
+    },
+    {
+      "name": "Tesco Sliced Carrots Peeled & Cut 1Kg",
+      "brand": "Tesco",
+      "size": "1Kg",
+      "unit": "Kg",
+      "price": 0.89,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Sliced Carrots Peeled & Cut 1Kg £0.89 £0.89/kg"
+    }
+  ]
+}

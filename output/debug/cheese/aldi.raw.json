@@ -1,0 +1,48 @@
+{
+  "options": [
+    {
+      "name": "Grated Cheddar Cheese",
+      "brand": "Everyday Essentials",
+      "size": "0.5 KG",
+      "unit": "kg",
+      "price": 2.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "EVERYDAY ESSENTIALS Grated Cheddar Cheese 0.5 KG (£5.98/1 KG) £2.99"
+    },
+    {
+      "name": "British Mild Cheddar Cheese",
+      "brand": "Emporium",
+      "size": "0.4 KG",
+      "unit": "kg",
+      "price": 2.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "EMPORIUM British Mild Cheddar Cheese 0.4 KG (£6.23/1 KG) £2.49"
+    },
+    {
+      "name": "British Mature Cheddar Cheese",
+      "brand": "Emporium",
+      "size": "0.4 KG",
+      "unit": "kg",
+      "price": 2.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "EMPORIUM British Mature Cheddar Cheese 0.4 KG (£6.23/1 KG) £2.49"
+    },
+    {
+      "name": "Mature Cheddar Cheese",
+      "brand": "Cathedral City",
+      "size": "0.35 KG",
+      "unit": "kg",
+      "price": 2.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.93,
+      "evidenceText": "CATHEDRAL CITY Mature Cheddar Cheese 0.35 KG (£8.54/1 KG) Save 11% £2.99 £3.39"
+    }
+  ]
+}

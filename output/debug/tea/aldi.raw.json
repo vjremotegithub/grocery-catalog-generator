@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Decaf Tea Bags 80 Pack",
+      "brand": "Diplomat",
+      "size": "80 Pack",
+      "unit": null,
+      "price": 1.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.99,
+      "evidenceText": "Diplomat Decaf Tea Bags 80 Pack 250 G (£0.60/100 G) £1.49"
+    },
+    {
+      "name": "Yorkshire Tea Bags 210 Pack",
+      "brand": "Taylors of Harrogate",
+      "size": "210 Pack",
+      "unit": null,
+      "price": 5.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Taylors of Harrogate Yorkshire Tea Bags 210 Pack 656 G (£0.91/100 G) £5.99"
+    },
+    {
+      "name": "Original Tea Bags 210 Pack",
+      "brand": "PG Tips",
+      "size": "210 Pack",
+      "unit": null,
+      "price": 4.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "PG Tips Original Tea Bags 210 Pack 609 G (£0.82/100 G) £4.99"
+    },
+    {
+      "name": "Original Tea Bags 240 Pack",
+      "brand": "Tetley",
+      "size": "240 Pack",
+      "unit": null,
+      "price": 4.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tetley Original Tea Bags 240 Pack 0.75 KG (£6.65/1 KG) £4.99"
+    },
+    {
+      "name": "Decaf Tea Bags 160 Pack",
+      "brand": "Tetley",
+      "size": "160 Pack",
+      "unit": null,
+      "price": 4.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tetley Decaf Tea Bags 160 Pack 0.5 KG (£9.98/1 KG) £4.99"
+    },
+    {
+      "name": "Red Label Tea Bags 160 Pack",
+      "brand": "Diplomat",
+      "size": "160 Pack",
+      "unit": null,
+      "price": 1.85,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Diplomat Red Label Tea Bags 160 Pack 500 G (£0.37/100 G) £1.85"
+    },
+    {
+      "name": "Gold Label Tea Bags 80 Pack",
+      "brand": "Diplomat",
+      "size": "80 Pack",
+      "unit": null,
+      "price": 1.59,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Diplomat Gold Label Tea Bags 80 Pack 250 G (£0.64/100 G) £1.59"
+    },
+    {
+      "name": "Decaf Tea Bags 80 Pack",
+      "brand": "Diplomat",
+      "size": "80 Pack",
+      "unit": null,
+      "price": 1.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.99,
+      "evidenceText": "Diplomat Decaf Tea Bags 80 Pack 250 G (£0.60/100 G) £1.49"
+    }
+  ]
+}

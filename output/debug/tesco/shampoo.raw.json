@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Tesco Extracts Shampoo - Apple",
+      "brand": "Tesco",
+      "size": "500ml",
+      "unit": "bottle",
+      "price": 0.79,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Extracts Shampoo - Apple 500ml £0.79"
+    },
+    {
+      "name": "Alberto Balsam Coconut & Lychee Shampoo",
+      "brand": "Alberto Balsam",
+      "size": "300ml",
+      "unit": "bottle",
+      "price": 0.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Alberto Balsam Coconut & Lychee Shampoo 300Ml £0.95"
+    },
+    {
+      "name": "Herbal Essences Dazzling Shine Shampoo - Lime Essences",
+      "brand": "Herbal Essences",
+      "size": "400ml",
+      "unit": "bottle",
+      "price": 1.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Herbal Essences Dazzling Shine Shampoo - Lime Essences 400ml £1.95"
+    },
+    {
+      "name": "L'Oreal Elvive Dream Lengths Shampoo",
+      "brand": "L'Oreal Elvive",
+      "size": "250ml",
+      "unit": "bottle",
+      "price": 3,
+      "loyaltyPrice": null,
+      "buy2Price": 6,
+      "confidence": 0.98,
+      "evidenceText": "L'Oreal Elvive Dream Lengths Shampoo 250ml Any 2 for £6.00 £3.00"
+    },
+    {
+      "name": "Pantene Pro-V Silky & Glowing Shampoo",
+      "brand": "Pantene",
+      "size": "400ml",
+      "unit": "bottle",
+      "price": 3.25,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Pantene Pro V Silky & Glowing Shampoo 400Ml £3.25"
+    }
+  ]
+}

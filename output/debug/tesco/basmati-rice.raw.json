@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Tesco Basmati Rice 1Kg",
+      "brand": "Tesco",
+      "size": "1kg",
+      "unit": "kg",
+      "price": 1.79,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.99,
+      "evidenceText": "Tesco Basmati Rice 1Kg £1.79 £1.79/kg"
+    },
+    {
+      "name": "Tesco Basmati Rice 2Kg",
+      "brand": "Tesco",
+      "size": "2kg",
+      "unit": "kg",
+      "price": 3.6,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.99,
+      "evidenceText": "Tesco Basmati Rice 2Kg £3.60 £1.80/kg"
+    },
+    {
+      "name": "Laila Basmati Rice 5Kg",
+      "brand": "Laila",
+      "size": "5kg",
+      "unit": "kg",
+      "price": 11.5,
+      "loyaltyPrice": 6.5,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Laila Basmati Rice 5kg £11.50 £2.30/kg £6.50 Clubcard Price (£1.30/kg)"
+    },
+    {
+      "name": "Badshah Basmati Rice 2Kg",
+      "brand": "Badshah",
+      "size": "2kg",
+      "unit": "kg",
+      "price": 5,
+      "loyaltyPrice": 4,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Badshah Basmati Rice 2Kg £5.00 £2.50/kg £4.00 Clubcard Price (£2.00/kg)"
+    },
+    {
+      "name": "Laila Basmati Rice 2Kg",
+      "brand": "Laila",
+      "size": "2kg",
+      "unit": "kg",
+      "price": 5,
+      "loyaltyPrice": 3.9,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Laila Basmati Rice 2Kg £5.00 £2.50/kg £3.90 Clubcard Price (£1.95/kg)"
+    }
+  ]
+}

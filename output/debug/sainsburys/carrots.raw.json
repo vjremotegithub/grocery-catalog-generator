@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Carrots 1kg",
+      "brand": "Sainsbury's",
+      "size": "1kg",
+      "unit": "kg",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Carrots 1kg 69p 69p / kg"
+    },
+    {
+      "name": "Carrots 500g",
+      "brand": "Sainsbury's",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.55,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Carrots 500g 55p £1.10 / kg"
+    },
+    {
+      "name": "Loose Carrots",
+      "brand": "Sainsbury's",
+      "size": null,
+      "unit": "kg",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Loose Carrots 69p 69p / kg"
+    },
+    {
+      "name": "Carrot Batons 400g",
+      "brand": "Sainsbury's",
+      "size": "400g",
+      "unit": "g",
+      "price": 1.1,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Carrot Batons 400g £1.10 £2.75 / kg"
+    },
+    {
+      "name": "Chantenay Carrots 400g",
+      "brand": "Sainsbury's",
+      "size": "400g",
+      "unit": "g",
+      "price": 1.05,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Chantenay Carrots 400g £1.05 £2.63 / kg"
+    }
+  ]
+}

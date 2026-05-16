@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Broccoli Loose",
+      "brand": "Sainsbury's",
+      "size": null,
+      "unit": null,
+      "price": 2.19,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Broccoli Loose £2.19"
+    },
+    {
+      "name": "Tenderstem Broccoli 200g",
+      "brand": "Sainsbury's",
+      "size": "200g",
+      "unit": "g",
+      "price": 1.6,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Tenderstem Broccoli 200g £1.60"
+    },
+    {
+      "name": "Broccoli & Cauliflower Florets 240g",
+      "brand": "Sainsbury's",
+      "size": "240g",
+      "unit": "g",
+      "price": 1.2,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Broccoli & Cauliflower Florets 240g £1.20"
+    },
+    {
+      "name": "Carrot, Cauliflower & Broccoli 240g",
+      "brand": "Sainsbury's",
+      "size": "240g",
+      "unit": "g",
+      "price": 1.2,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Carrot, Cauliflower & Broccoli 240g £1.20"
+    },
+    {
+      "name": "Broccoli, Baby Corn, Carrots & Sugar Snap Peas 240g",
+      "brand": "Sainsbury's",
+      "size": "240g",
+      "unit": "g",
+      "price": 2,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Broccoli, Baby Corn, Carrots & Sugar Snap Peas 240g £2.00"
+    }
+  ]
+}

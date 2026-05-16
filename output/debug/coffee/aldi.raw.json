@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Instant Coffee",
+      "brand": "Barissimo",
+      "size": "200 G",
+      "unit": "g",
+      "price": 2.65,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "BARISSIMO Instant Coffee 200 G (£1.33/100 G) £2.65"
+    },
+    {
+      "name": "Lungo Coffee Pods",
+      "brand": "Barissimo",
+      "size": "110 G",
+      "unit": "g",
+      "price": 2.79,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "BARISSIMO Lungo Coffee Pods 110 G (£2.54/100 G) £2.79"
+    },
+    {
+      "name": "Espresso Macchiato Coffee",
+      "brand": "Barissimo",
+      "size": "1 L",
+      "unit": "l",
+      "price": 1.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "BARISSIMO Espresso Macchiato Coffee 1 L (£1.69/1 L) £1.69"
+    },
+    {
+      "name": "Latte Cappuccino Coffee",
+      "brand": "Barissimo",
+      "size": "1 L",
+      "unit": "l",
+      "price": 1.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "BARISSIMO Latte Cappuccino Coffee 1 L (£1.69/1 L) £1.69"
+    },
+    {
+      "name": "Original Instant Coffee",
+      "brand": "Nescafe",
+      "size": "300 G",
+      "unit": "g",
+      "price": 6.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "NESCAFÉ Original Instant Coffee 300 G (£2.33/100 G) £6.99 £7.25"
+    },
+    {
+      "name": "Alta Rica 100% Arabica Instant Coffee",
+      "brand": "Nescafe",
+      "size": "190 G",
+      "unit": "g",
+      "price": 6.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.9,
+      "evidenceText": "NESCAFÉ Alta Rica 100% Arabica Instant Coffee 190 G (£3.42/100 G) £6.49"
+    },
+    {
+      "name": "Rich Crema Instant Espresso",
+      "brand": "Nescafe",
+      "size": "190 G",
+      "unit": "g",
+      "price": 6.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "NESCAFÉ Rich Crema Instant Espresso 190 G (£3.42/100 G) £6.49"
+    },
+    {
+      "name": "Single Origin 100% Arabica Medium Roast Colombian Coffee",
+      "brand": "Specially Selected",
+      "size": "0.05 KG",
+      "unit": "kg",
+      "price": 1.85,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.92,
+      "evidenceText": "SPECIALLY SELECTED Single Origin 100% Arabica Medium Roast Colombian... 0.05 KG (£37.00/1 KG) £1.85 £1.95"
+    }
+  ]
+}

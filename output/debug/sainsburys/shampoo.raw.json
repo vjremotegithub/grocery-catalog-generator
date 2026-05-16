@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Head & Shoulders Classic Clean Anti-Dandruff Shampoo",
+      "brand": "Head & Shoulders",
+      "size": "400ml",
+      "unit": "ml",
+      "price": 5,
+      "loyaltyPrice": null,
+      "buy2Price": 10,
+      "confidence": 1,
+      "evidenceText": "Head & Shoulders Classic Clean Anti-Dandruff Shampoo 400ml £5.00 £12.50/ltr Buy any 3 for £10.00 with Nectar"
+    },
+    {
+      "name": "Alberto Balsam Coconut & Lychee Shampoo",
+      "brand": "Alberto Balsam",
+      "size": "350ml",
+      "unit": "ml",
+      "price": 0.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Alberto Balsam Coconut & Lychee Shampoo 350ml 95p £3.17/ltr"
+    },
+    {
+      "name": "TRESemmé Shampoo Rich Moisture",
+      "brand": "TRESemmé",
+      "size": "680ml",
+      "unit": "ml",
+      "price": 3.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "TRESemmé Shampoo Rich Moisture 680ml £3.75 £5.51/ltr"
+    },
+    {
+      "name": "Sainsbury's Apple Shampoo",
+      "brand": "Sainsbury's",
+      "size": "500ml",
+      "unit": "ml",
+      "price": 0.79,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Apple Shampoo 500ml 79p £1.58/ltr"
+    },
+    {
+      "name": "Garnier Ultimate Blends Honey Treasures Strengthening Shampoo",
+      "brand": "Garnier",
+      "size": "400ml",
+      "unit": "ml",
+      "price": 2.4,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Garnier Ultimate Blends Honey Treasures Strengthening Shampoo... £2.40 £6.00/ltr"
+    }
+  ]
+}

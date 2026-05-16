@@ -1,0 +1,33 @@
+tesco | apples | https://www.tesco.com/shop/en-GB/search?query=apples&inputType=free+text
+tesco | bananas | https://www.tesco.com/shop/en-GB/search?query=bananas&inputType=free+text
+tesco | blueberries | https://www.tesco.com/shop/en-GB/search?query=blueberries&inputType=free+text
+tesco | broccoli | https://www.tesco.com/shop/en-GB/search?query=broccoli&inputType=free+text
+tesco | potatoes | https://www.tesco.com/shop/en-GB/search?query=potatoes&inputType=free+text
+tesco | carrots | https://www.tesco.com/shop/en-GB/search?query=carrots&inputType=free+text
+tesco | onions | https://www.tesco.com/shop/en-GB/search?query=onions&inputType=free+text
+tesco | tomatoes | https://www.tesco.com/shop/en-GB/search?query=tomatoes&inputType=free+text
+tesco | semi skimmed milk | https://www.tesco.com/shop/en-GB/search?query=semi%20skimmed%20milk&inputType=free+text
+tesco | whole milk | https://www.tesco.com/shop/en-GB/search?query=whole%20milk&inputType=free+text
+tesco | skimmed milk | https://www.tesco.com/shop/en-GB/search?query=skimmed%20milk&inputType=free+text
+tesco | free range eggs | https://www.tesco.com/shop/en-GB/search?query=free%20range%20eggs&inputType=free+text
+tesco | butter | https://www.tesco.com/shop/en-GB/search?query=butter&inputType=free+text
+tesco | cheddar cheese | https://www.tesco.com/shop/en-GB/search?query=cheddar%20cheese&inputType=free+text
+tesco | greek yogurt | https://www.tesco.com/shop/en-GB/search?query=greek%20yogurt&inputType=free+text
+tesco | halloumi | https://www.tesco.com/shop/en-GB/search?query=halloumi&inputType=free+text
+tesco | white bread | https://www.tesco.com/shop/en-GB/search?query=white%20bread&inputType=free+text
+tesco | brown bread | https://www.tesco.com/shop/en-GB/search?query=brown%20bread&inputType=free+text
+tesco | chicken breast | https://www.tesco.com/shop/en-GB/search?query=chicken%20breast&inputType=free+text
+tesco | lamb | https://www.tesco.com/shop/en-GB/search?query=lamb&inputType=free+text
+tesco | minced beef | https://www.tesco.com/shop/en-GB/search?query=minced%20beef&inputType=free+text
+tesco | sausages | https://www.tesco.com/shop/en-GB/search?query=sausages&inputType=free+text
+tesco | basmati rice | https://www.tesco.com/shop/en-GB/search?query=basmati%20rice&inputType=free+text
+tesco | pasta | https://www.tesco.com/shop/en-GB/search?query=pasta&inputType=free+text
+tesco | coffee | https://www.tesco.com/shop/en-GB/search?query=coffee&inputType=free+text
+tesco | tea bags | https://www.tesco.com/shop/en-GB/search?query=tea%20bags&inputType=free+text
+tesco | baked beans | https://www.tesco.com/shop/en-GB/search?query=baked%20beans&inputType=free+text
+tesco | chopped tomatoes | https://www.tesco.com/shop/en-GB/search?query=chopped%20tomatoes&inputType=free+text
+tesco | olive oil | https://www.tesco.com/shop/en-GB/search?query=olive%20oil&inputType=free+text
+tesco | toilet roll | https://www.tesco.com/shop/en-GB/search?query=toilet%20roll&inputType=free+text
+tesco | washing liquid | https://www.tesco.com/shop/en-GB/search?query=washing%20liquid&inputType=free+text
+tesco | washing up liquid | https://www.tesco.com/shop/en-GB/search?query=washing%20up%20liquid&inputType=free+text
+tesco | shampoo | https://www.tesco.com/shop/en-GB/search?query=shampoo&inputType=free+text

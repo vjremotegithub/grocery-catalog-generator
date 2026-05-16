@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Non Bio Super Concentrated Laundry Liquid",
+      "brand": "Sainsbury's",
+      "size": "1.5L",
+      "unit": null,
+      "price": 3.5,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Sainsbury's Non Bio Super Concentrated Laundry Liquid 1.5L £3.50 (£2.33 / ltr)"
+    },
+    {
+      "name": "Bio Super Concentrated Laundry Liquid",
+      "brand": "Sainsbury's",
+      "size": "1.5L",
+      "unit": null,
+      "price": 3.5,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Sainsbury's Bio Super Concentrated Laundry Liquid 1.5L £3.50 (£2.33 / ltr)"
+    },
+    {
+      "name": "Non Bio Laundry Washing Liquid Detergent 35 Washes",
+      "brand": "Persil",
+      "size": null,
+      "unit": null,
+      "price": 7,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.92,
+      "evidenceText": "Persil Non Bio Laundry Washing Liquid Detergent 35 Washes £7.00 (£7.41 / ltr)"
+    },
+    {
+      "name": "Non Bio Liquid Detergent 63 Washes",
+      "brand": "Fairy",
+      "size": null,
+      "unit": null,
+      "price": 11,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.92,
+      "evidenceText": "Fairy Non Bio Liquid Detergent 63 Washes £11.00 (£5.37 / ltr)"
+    },
+    {
+      "name": "Bio Laundry Washing Liquid Detergent 53 Washes",
+      "brand": "Persil",
+      "size": null,
+      "unit": null,
+      "price": 9,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.92,
+      "evidenceText": "Persil Laundry Washing Liquid Detergent Non Bio 53 Washes £9.00 (£5.21 / ltr)"
+    }
+  ]
+}

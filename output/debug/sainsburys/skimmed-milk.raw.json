@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Sainsbury's British Skimmed Milk 2.27L (4 pint)",
+      "brand": "Sainsbury's",
+      "size": "2.27L",
+      "unit": "bottle",
+      "price": 1.65,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's British Skimmed Milk 2.27L (4 pint)\n£1.65 73p/ltr"
+    },
+    {
+      "name": "Sainsbury's British Skimmed Milk 1.13L (2 pint)",
+      "brand": "Sainsbury's",
+      "size": "1.13L",
+      "unit": "bottle",
+      "price": 1.2,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's British Skimmed Milk 1.13L (2 pint)\n£1.20 £1.06/ltr"
+    },
+    {
+      "name": "Sainsbury's British Skimmed Milk 568ml (1 pint)",
+      "brand": "Sainsbury's",
+      "size": "568ml",
+      "unit": "bottle",
+      "price": 0.85,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's British Skimmed Milk Drink 568ml (1 pint)\n£0.85 £1.50/ltr"
+    },
+    {
+      "name": "Sainsbury's Skimmed Long Life Milk 1L",
+      "brand": "Sainsbury's",
+      "size": "1L",
+      "unit": "carton",
+      "price": 1.35,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Skimmed Long Life Milk 1L\n£1.35 £1.35/ltr"
+    },
+    {
+      "name": "Dairy Pride UHT Skimmed Milk 1L",
+      "brand": "Dairy Pride",
+      "size": "1L",
+      "unit": "carton",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Dairy Pride UHT Skimmed Milk 1L\n£0.69 69p/ltr"
+    }
+  ]
+}

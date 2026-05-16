@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Shampoo/Conditioner",
+      "brand": "Lacura",
+      "size": "0.3 L",
+      "unit": "L",
+      "price": 1.39,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "LACURA Shampoo/Conditioner 0.3 L (£4.63/1 L) £1.39"
+    },
+    {
+      "name": "Shampoo/Conditioner",
+      "brand": "Lacura",
+      "size": "0.5 L",
+      "unit": "L",
+      "price": 0.79,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "LACURA Shampoo/Conditioner 0.5 L (£1.58/1 L) £0.79"
+    },
+    {
+      "name": "Shampoo/Conditioner",
+      "brand": "Aussie",
+      "size": "0.25 L",
+      "unit": "L",
+      "price": 2.79,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "AUSSIE Shampoo/Conditioner 0.25 L (£11.16/1 L) £2.79"
+    },
+    {
+      "name": "Shampoo/Conditioner",
+      "brand": "Alberto Balsam",
+      "size": "0.3 L",
+      "unit": "L",
+      "price": 0.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "ALBERTO BALSAM Shampoo/Conditioner 0.3 L (£3.17/1 L) £0.95"
+    },
+    {
+      "name": "Anti-Dandruff Shampoo",
+      "brand": "Lacura",
+      "size": "0.5 L",
+      "unit": "L",
+      "price": 1.39,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "LACURA Anti-Dandruff Shampoo 0.5 L (£2.78/1 L) £1.39"
+    },
+    {
+      "name": "Hair Refine Shampoo",
+      "brand": "Lacura",
+      "size": "0.25 L",
+      "unit": "L",
+      "price": 1.29,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "LACURA Hair Refine Shampoo 0.25 L (£5.16/1 L) £1.29"
+    },
+    {
+      "name": "Replenish Shampoo & Conditioner",
+      "brand": "Lacura",
+      "size": "0.5 L",
+      "unit": "L",
+      "price": 1.89,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "LACURA Replenish Shampoo & Conditioner 0.5 L (£3.78/1 L) £1.89"
+    },
+    {
+      "name": "Hair Culture Shampoo/Conditioner",
+      "brand": "Lacura",
+      "size": "0.5 L",
+      "unit": "L",
+      "price": 1.39,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "LACURA Hair Culture Shampoo/Conditioner 0.5 L (£2.78/1 L) £1.39 £1.79 Save 22%"
+    }
+  ]
+}

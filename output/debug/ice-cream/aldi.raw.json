@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Cornish Ice Cream",
+      "brand": "Gianni's",
+      "size": "2 L",
+      "unit": "L",
+      "price": 3.29,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "GIANNI'S Cornish Ice Cream 2 L £3.29"
+    },
+    {
+      "name": "Strawberry Ice Cream",
+      "brand": "Gianni's",
+      "size": "1,000 ML",
+      "unit": "ML",
+      "price": 2.45,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "GIANNI'S Strawberry Ice Cream 1,000 ML £2.45"
+    },
+    {
+      "name": "Soft Scoop Vanilla Ice Cream",
+      "brand": "Gianni's",
+      "size": "2 L",
+      "unit": "L",
+      "price": 1.65,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "GIANNI'S Soft Scoop Vanilla Ice Cream 2 L £1.65"
+    },
+    {
+      "name": "Madagascan Vanilla Ice Cream",
+      "brand": "Gianni's",
+      "size": "1,000 ML",
+      "unit": "ML",
+      "price": 2.45,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "GIANNI'S Madagascan Vanilla Ice Cream 1,000 ML £2.45"
+    },
+    {
+      "name": "Chocolate Brownie Ice Cream",
+      "brand": "Gianni's",
+      "size": "0.5 L",
+      "unit": "L",
+      "price": 1.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "GIANNI'S Chocolate Brownie Ice Cream 0.5 L £1.99"
+    },
+    {
+      "name": "Salted Caramel Ice Cream",
+      "brand": "Gianni's",
+      "size": "1,000 ML",
+      "unit": "ML",
+      "price": 2.45,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "GIANNI'S Salted Caramel Ice Cream 1,000 ML £2.45"
+    },
+    {
+      "name": "Vanilla Ice Cream Cones 6 Pack",
+      "brand": "Gianni's",
+      "size": "720 ML",
+      "unit": "ML",
+      "price": 2.19,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "GIANNI'S Vanilla Ice Cream Cones 6 Pack 720 ML £2.19"
+    },
+    {
+      "name": "Cookies & Cream Ice Cream Sandwiches 6 Pack",
+      "brand": "Gianni's",
+      "size": "216 G",
+      "unit": "G",
+      "price": 2.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "GIANNI'S Cookies & Cream Ice Cream Sandwiches 6 Pack 216 G £2.49"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "British or New Zealand Lamb Leg Steaks 300g",
+      "brand": "Sainsbury's",
+      "size": "300g",
+      "unit": "pack",
+      "price": 5.75,
+      "loyaltyPrice": 5,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Sainsbury's British or New Zealand Lamb Leg Steaks 300g £5.00 £16.67 / kg £5.75 £19.17 / kg"
+    },
+    {
+      "name": "British or New Zealand Lamb Chops 370g",
+      "brand": "Sainsbury's",
+      "size": "370g",
+      "unit": "pack",
+      "price": 6.12,
+      "loyaltyPrice": 3.25,
+      "buy2Price": null,
+      "confidence": 0.93,
+      "evidenceText": "Sainsbury's British or New Zealand Lamb Chops 370g £3.25 (£19.12 / kg)"
+    },
+    {
+      "name": "British or New Zealand Half Leg of Lamb (Approx. 1.2kg-2kg)",
+      "brand": "Sainsbury's",
+      "size": "1.2kg-2kg",
+      "unit": "each",
+      "price": 33.4,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.92,
+      "evidenceText": "Sainsbury's British or New Zealand Whole Leg Of Lamb (Approx. 1.2kg-2kg) - £33.40 / kg"
+    },
+    {
+      "name": "British or New Zealand Lamb Rump Steaks 300g",
+      "brand": "Sainsbury's",
+      "size": "300g",
+      "unit": "pack",
+      "price": 6.25,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.88,
+      "evidenceText": "Sainsbury's British or New Zealand Lamb Rump Steaks 300g £6.25 £20.83 / kg"
+    },
+    {
+      "name": "British or New Zealand Lamb Boneless Shoulder (600g-800g)",
+      "brand": "Sainsbury's",
+      "size": "600g-800g",
+      "unit": "each",
+      "price": 12.12,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.88,
+      "evidenceText": "Sainsbury's British or New Zealand Lamb Boneless Shoulder (Approx. 600g-800g) - £12.12 / kg"
+    }
+  ]
+}

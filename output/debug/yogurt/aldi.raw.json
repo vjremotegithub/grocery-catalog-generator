@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Cherry Farmhouse Yogurt",
+      "brand": "Specially Selected",
+      "size": "125g",
+      "unit": "g",
+      "price": 0.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "SPECIALY SELECTED Cherry Farmhouse Yogurt 125 G (£0.60/100 G) £0.75"
+    },
+    {
+      "name": "Raspberry Protein Yogurt",
+      "brand": "Brooklea",
+      "size": "200g",
+      "unit": "g",
+      "price": 0.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BROOKLEA Raspberry Protein Yogurt 200 G (£0.38/100 G) £0.75"
+    },
+    {
+      "name": "Strawberry Protein Yogurt",
+      "brand": "Brooklea",
+      "size": "200g",
+      "unit": "g",
+      "price": 0.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BROOKLEA Strawberry Protein Yogurt 200 G (£0.38/100 G) £0.75"
+    },
+    {
+      "name": "Greek Style Yogurt",
+      "brand": "Brooklea",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BROOKLEA Greek Style Yogurt 500 G (£0.19/100 G) £0.95"
+    },
+    {
+      "name": "Fat Free Natural Yogurt",
+      "brand": "Everyday Essentials",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.55,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "EVERYDAY ESSENTIALS Fat Free Natural Yogurt 500 G (£0.11/100 G) £0.55"
+    },
+    {
+      "name": "Fat Free Strawberry Yogurt",
+      "brand": "Brooklea",
+      "size": "0.45kg",
+      "unit": "kg",
+      "price": 0.89,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BROOKLEA Fat Free Strawberry Yogurt 0.45 KG (£1.98/1 KG) £0.89"
+    },
+    {
+      "name": "Caramel Layered Yogurt",
+      "brand": "Specially Selected",
+      "size": "150g",
+      "unit": "g",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "SPECIALLY SELECTED Caramel Layered Yogurt 150 G (£0.46/100 G) £0.69"
+    },
+    {
+      "name": "Toffee Fat Free Yogurt",
+      "brand": "Brooklea",
+      "size": "0.16kg",
+      "unit": "kg",
+      "price": 0.39,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BROOKLEA Toffee Fat Free Yogurt 0.16 KG (£2.44/1 KG) £0.39"
+    }
+  ]
+}

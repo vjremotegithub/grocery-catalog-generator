@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Royal Gala Apples x6",
+      "brand": "Sainsbury's",
+      "size": "6",
+      "unit": "apples",
+      "price": 1.8,
+      "loyaltyPrice": 1.2,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Royal Gala Apples x6 £1.20 20p / ea £1.80 30p / ea"
+    },
+    {
+      "name": "Braeburn Apples x6",
+      "brand": "Sainsbury's",
+      "size": "6",
+      "unit": "apples",
+      "price": 1.8,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Braeburn Apples x6 £1.80 30p / ea"
+    },
+    {
+      "name": "Granny Smith Apples x6",
+      "brand": "Sainsbury's",
+      "size": "6",
+      "unit": "apples",
+      "price": 1.8,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Granny Smith Apples x6 £1.80 30p / ea"
+    },
+    {
+      "name": "Best Of British Apples x6",
+      "brand": "Sainsbury's",
+      "size": "6",
+      "unit": "apples",
+      "price": 1.5,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Best Of British Apples x6 £1.50 25p / ea"
+    },
+    {
+      "name": "Jazz Apples x6",
+      "brand": "Sainsbury's",
+      "size": "6",
+      "unit": "apples",
+      "price": 2.4,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Jazz Apples x6 £2.40 40p / ea"
+    }
+  ]
+}

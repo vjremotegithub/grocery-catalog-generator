@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Medium Sliced White Bread",
+      "brand": "Tesco",
+      "size": "800g",
+      "unit": "g",
+      "price": 0.74,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Medium Sliced White Bread 800g £0.74"
+    },
+    {
+      "name": "White Toastie Bread Thick Sliced",
+      "brand": "Tesco",
+      "size": "800g",
+      "unit": "g",
+      "price": 0.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco White Toastie Bread Thick Sliced 800g £0.75"
+    },
+    {
+      "name": "Soft White Medium Sliced Bread",
+      "brand": "Hovis",
+      "size": "800g",
+      "unit": "g",
+      "price": 1.39,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Hovis Soft White Medium Sliced Bread 800g £1.39"
+    },
+    {
+      "name": "Toastie Thick Sliced White Bread",
+      "brand": "Warburtons",
+      "size": "800g",
+      "unit": "g",
+      "price": 1.4,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Warburtons Toastie Thick Sliced White Bread 800g £1.40"
+    },
+    {
+      "name": "Medium Sliced Soft White Bread",
+      "brand": "Warburtons",
+      "size": "800g",
+      "unit": "g",
+      "price": 1.4,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Warburtons Medium Sliced Soft White Bread 800g £1.40"
+    }
+  ]
+}

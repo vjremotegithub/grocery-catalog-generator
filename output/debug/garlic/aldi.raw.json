@@ -1,0 +1,48 @@
+{
+  "options": [
+    {
+      "name": "Garlic",
+      "brand": "Nature's Pick",
+      "size": "4 Each",
+      "unit": null,
+      "price": 0.87,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Nature's Pick Garlic 4 Each (£0.22/1 Each) £0.87"
+    },
+    {
+      "name": "Loose Garlic",
+      "brand": "Nature's Pick",
+      "size": "1 Each",
+      "unit": null,
+      "price": 0.42,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Nature's Pick Loose Garlic 1 Each (£0.42/1 Each) £0.42"
+    },
+    {
+      "name": "Garlic Granules",
+      "brand": "Ready, Set...Cook!",
+      "size": "52 G",
+      "unit": "G",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Ready, Set...Cook! Garlic Granules 52 G (£0.13/10 G) £0.69"
+    },
+    {
+      "name": "Garlic Purée",
+      "brand": "Ready, Set...Cook!",
+      "size": "0.075 KG",
+      "unit": "KG",
+      "price": 0.85,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Ready, Set...Cook! Garlic Purée 0.075 KG (£11.33/1 KG) £0.85"
+    }
+  ]
+}

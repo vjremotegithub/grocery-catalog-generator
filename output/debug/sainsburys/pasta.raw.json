@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Sainsbury's Rigatoni Tubes Pasta",
+      "brand": "Sainsbury's",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Italian Rigatoni Tubes Pasta 500g 69p £1.38/kg"
+    },
+    {
+      "name": "Sainsbury's Fusilli Pasta",
+      "brand": "Sainsbury's",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.6,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Fusilli Pasta 500g 60p £1.20/kg"
+    },
+    {
+      "name": "Sainsbury's Penne Pasta",
+      "brand": "Sainsbury's",
+      "size": "1kg",
+      "unit": "kg",
+      "price": 1.38,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Penne Pasta 1kg £1.38 £1.38/kg"
+    },
+    {
+      "name": "Sainsbury's Conchiglie Shells Pasta",
+      "brand": "Sainsbury's",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Conchiglie Shells Pasta 500g 69p £1.38/kg"
+    },
+    {
+      "name": "Sainsbury's Macaroni Pasta",
+      "brand": "Sainsbury's",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.72,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Macaroni Pasta 500g 72p £1.44/kg"
+    }
+  ]
+}

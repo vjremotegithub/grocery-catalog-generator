@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Lean Beef Steak Mince 5% Fat",
+      "brand": "Tesco",
+      "size": "500g",
+      "unit": "g",
+      "price": 5.19,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Lean Beef Steak Mince 5% Fat 500g £5.19"
+    },
+    {
+      "name": "Beef Mince 20% Fat",
+      "brand": "Tesco",
+      "size": "500g",
+      "unit": "g",
+      "price": 3.25,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Beef Mince 20% Fat 500g £3.25"
+    },
+    {
+      "name": "Lean Beef Steak Mince 5% Fat",
+      "brand": "Tesco",
+      "size": "750g",
+      "unit": "g",
+      "price": 7.5,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Lean Beef Steak Mince 5% Fat 750g £7.50"
+    },
+    {
+      "name": "Beef Steak Mince 15% Fat",
+      "brand": "Tesco",
+      "size": "750g",
+      "unit": "g",
+      "price": 7.1,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Beef Steak Mince 15% Fat 750g £7.10"
+    },
+    {
+      "name": "Beef Steak Mince 5% Fat",
+      "brand": "Tesco",
+      "size": "500g",
+      "unit": "g",
+      "price": 4.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Beef Steak Mince 5% Fat 500g £4.75"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Sainsbury's Cypriot Halloumi Cheese",
+      "brand": "Sainsbury's",
+      "size": "225g",
+      "unit": "g",
+      "price": 1.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Sainsbury's Cypriot Halloumi Cheese 225g £1.99 £8.84 / kg"
+    },
+    {
+      "name": "Sainsbury's Cypriot Halloumi, Taste the Difference",
+      "brand": "Sainsbury's",
+      "size": "250g",
+      "unit": "g",
+      "price": 4,
+      "loyaltyPrice": 3,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Sainsbury's Cypriot Halloumi, Taste the Difference 250g £3.00 £12.00 / kg £4.00 £16.00 / kg Save 25% with Nectar"
+    },
+    {
+      "name": "Sainsbury's Bacon Wrapped Halloumi Sticks with Hot Honey",
+      "brand": "Sainsbury's",
+      "size": null,
+      "unit": null,
+      "price": 4.5,
+      "loyaltyPrice": null,
+      "buy2Price": 8,
+      "confidence": 0.8,
+      "evidenceText": "Sainsbury's Bacon Wrapped Halloumi Sticks with Hot Honey Dr... Buy any 3 for £8.00 with Nectar £4.50 £18.00 / kg"
+    },
+    {
+      "name": "Sainsbury's 200g Summer Chilli Halloumi Sticks",
+      "brand": "Sainsbury's",
+      "size": "200g",
+      "unit": "g",
+      "price": 2.75,
+      "loyaltyPrice": 2.25,
+      "buy2Price": null,
+      "confidence": 0.93,
+      "evidenceText": "Sainsbury's 200g Summer Chilli Halloumi Sticks £2.25 £11.25 / kg £2.75 £13.75 / kg Nectar Price"
+    },
+    {
+      "name": "Sainsbury's Summer 2 x Halloumi Quarter Pounder Burgers",
+      "brand": "Sainsbury's",
+      "size": "228g",
+      "unit": "g",
+      "price": 3,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.87,
+      "evidenceText": "Sainsbury's Summer 2 x Halloumi Quarter Pounder Burgers 228g £3.00 £13.16 / kg"
+    }
+  ]
+}

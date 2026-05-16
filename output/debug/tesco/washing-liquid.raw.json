@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Fairy Original Washing Up Liquid",
+      "brand": "Fairy",
+      "size": "320ml",
+      "unit": "ml",
+      "price": 0.89,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Fairy Original Washing Up Liquid 320Ml £0.89"
+    },
+    {
+      "name": "Tesco Lemon Washing Up Liquid",
+      "brand": "Tesco",
+      "size": "500ml",
+      "unit": "ml",
+      "price": 0.62,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Lemon Washing Up Liquid 500Ml £0.62"
+    },
+    {
+      "name": "Tesco Original Washing Up Liquid",
+      "brand": "Tesco",
+      "size": "654ml",
+      "unit": "ml",
+      "price": 1.8,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Original Washing Up Liquid 654Ml £1.80"
+    },
+    {
+      "name": "Fairy Platinum Quick Wash Washing Up Liquid",
+      "brand": "Fairy",
+      "size": "820ml",
+      "unit": "ml",
+      "price": 3,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Fairy Platinum Quick Wash Washing Up Liquid 820Ml £3.00"
+    },
+    {
+      "name": "Surcare Washing Up Liquid",
+      "brand": "Surcare",
+      "size": "450ml",
+      "unit": "ml",
+      "price": 1.35,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Surcare Washing Up Liquid 450Ml £1.35"
+    }
+  ]
+}

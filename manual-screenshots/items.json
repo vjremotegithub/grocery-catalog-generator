@@ -1,0 +1,341 @@
+[
+  {
+    "slug": "whole-milk",
+    "canonicalName": "whole milk",
+    "category": "milk",
+    "keywords": ["whole milk", "milk"]
+  },
+  {
+    "slug": "semi-skimmed-milk",
+    "canonicalName": "semi skimmed milk",
+    "category": "milk",
+    "keywords": ["semi skimmed milk", "milk"]
+  },
+  {
+    "slug": "skimmed-milk",
+    "canonicalName": "skimmed milk",
+    "category": "milk",
+    "keywords": ["skimmed milk", "milk"]
+  },
+  {
+    "slug": "eggs",
+    "canonicalName": "free range eggs",
+    "category": "eggs",
+    "keywords": ["eggs", "free range eggs"]
+  },
+  {
+    "slug": "butter",
+    "canonicalName": "butter",
+    "category": "dairy",
+    "keywords": ["butter"]
+  },
+  {
+    "slug": "yogurt",
+    "canonicalName": "yogurt",
+    "category": "dairy",
+    "keywords": ["yogurt", "greek yogurt"]
+  },
+  {
+    "slug": "cheese",
+    "canonicalName": "cheddar cheese",
+    "category": "dairy",
+    "keywords": ["cheese", "cheddar cheese"]
+  },
+  
+  {
+    "slug": "bread",
+    "canonicalName": "bread",
+    "category": "bakery",
+    "keywords": ["brown bread", "wholemeal bread", "white bread"]
+  },
+  {
+    "slug": "rice",
+    "canonicalName": "rice",
+    "category": "cupboard",
+    "keywords": ["white rice", "rice", "brown rice"]
+  },
+  {
+    "slug": "pasta",
+    "canonicalName": "pasta",
+    "category": "cupboard",
+    "keywords": ["pasta"]
+  },
+  {
+    "slug": "potatoes",
+    "canonicalName": "potatoes",
+    "category": "vegetables",
+    "keywords": ["potatoes", "potato"]
+  },
+  {
+    "slug": "carrots",
+    "canonicalName": "carrots",
+    "category": "vegetables",
+    "keywords": ["carrots", "carrot"]
+  },
+  {
+    "slug": "broccoli",
+    "canonicalName": "broccoli",
+    "category": "vegetables",
+    "keywords": ["broccoli"]
+  },
+  {
+    "slug": "tomato",
+    "canonicalName": "tomatoes",
+    "category": "vegetables",
+    "keywords": ["tomatoes", "tomato"]
+  },
+  {
+    "slug": "salad",
+    "canonicalName": "salad",
+    "category": "vegetables",
+    "keywords": ["salad", "mixed salad"]
+  },
+  {
+    "slug": "apples",
+    "canonicalName": "apples",
+    "category": "fruit",
+    "keywords": ["apples", "apple"]
+  },
+  {
+    "slug": "bananas",
+    "canonicalName": "bananas",
+    "category": "fruit",
+    "keywords": ["bananas", "banana"]
+  },
+  {
+    "slug": "blueberries",
+    "canonicalName": "blueberries",
+    "category": "fruit",
+    "keywords": ["blueberries", "blueberry"]
+  },
+  {
+    "slug": "strawberries",
+    "canonicalName": "strawberries",
+    "category": "fruit",
+    "keywords": ["strawberries", "strawberry"]
+  },
+  {
+    "slug": "grapes",
+    "canonicalName": "grapes",
+    "category": "fruit",
+    "keywords": ["grapes", "grape"]
+  },
+  {
+    "slug": "oranges",
+    "canonicalName": "oranges",
+    "category": "fruit",
+    "keywords": ["oranges", "orange"]
+  },
+  {
+    "slug": "juice",
+    "canonicalName": "orange juice",
+    "category": "drinks",
+    "keywords": ["orange juice", "juice"]
+  },
+  {
+    "slug": "water",
+    "canonicalName": "bottled water",
+    "category": "drinks",
+    "keywords": ["water", "bottled water"]
+  },
+  {
+    "slug": "beer",
+    "canonicalName": "beer",
+    "category": "alcohol",
+    "keywords": ["beer", "lager"]
+  },
+  {
+    "slug": "wine",
+    "canonicalName": "wine",
+    "category": "alcohol",
+    "keywords": ["wine", "red wine", "white wine"]
+  },
+  {
+    "slug": "whisky",
+    "canonicalName": "whisky",
+    "category": "alcohol",
+    "keywords": ["whisky", "whiskey"]
+  },
+  {
+    "slug": "champagne",
+    "canonicalName": "champagne",
+    "category": "alcohol",
+    "keywords": ["champagne", "sparkling wine"]
+  },
+  {
+    "slug": "chicken",
+    "canonicalName": "chicken breast",
+    "category": "meat",
+    "keywords": ["chicken breast", "chicken"]
+  },
+  {
+    "slug": "beef",
+    "canonicalName": "beef mince",
+    "category": "meat",
+    "keywords": ["beef mince", "beef"]
+  },
+  {
+    "slug": "lamb",
+    "canonicalName": "lamb",
+    "category": "meat",
+    "keywords": ["lamb"]
+  },
+  {
+    "slug": "prawns",
+    "canonicalName": "prawns",
+    "category": "seafood",
+    "keywords": ["prawns", "king prawns"]
+  },
+  {
+    "slug": "ice-cream",
+    "canonicalName": "ice cream",
+    "category": "frozen",
+    "keywords": ["ice cream"]
+  },
+  {
+    "slug": "toilet-paper",
+    "canonicalName": "toilet paper",
+    "category": "household",
+    "keywords": ["toilet paper", "toilet roll"]
+  },
+  {
+    "slug": "kitchen-towels",
+    "canonicalName": "kitchen towels",
+    "category": "household",
+    "keywords": ["kitchen towels", "kitchen roll"]
+  },
+  {
+    "slug": "washing-liquid",
+    "canonicalName": "laundry detergent",
+    "category": "household",
+    "keywords": ["washing liquid", "laundry detergent"]
+  },
+  {
+    "slug": "washing-up-liquid",
+    "canonicalName": "washing up liquid",
+    "category": "household",
+    "keywords": ["washing up liquid", "dish soap"]
+  },
+  {
+    "slug": "shampoo",
+    "canonicalName": "shampoo",
+    "category": "toiletries",
+    "keywords": ["shampoo"]
+  },
+  {
+    "slug": "shower-gel",
+    "canonicalName": "shower gel",
+    "category": "toiletries",
+    "keywords": ["shower gel", "body wash"]
+  },
+  {
+    "slug": "mens-deodorant",
+    "canonicalName": "mens deodorant",
+    "category": "toiletries",
+    "keywords": ["mens deodorant", "deodorant"]
+  },
+  {
+    "slug": "womens-deodorant",
+    "canonicalName": "womens deodorant",
+    "category": "toiletries",
+    "keywords": ["womens deodorant", "deodorant"]
+  },
+  {
+    "slug": "face-wash",
+    "canonicalName": "face wash",
+    "category": "beauty",
+    "keywords": ["face wash", "cleanser"]
+  },
+  {
+    "slug": "face-cream",
+    "canonicalName": "face cream",
+    "category": "beauty",
+    "keywords": ["face cream", "moisturiser"]
+  },
+  {
+    "slug": "cat-food",
+    "canonicalName": "cat food",
+    "category": "pet",
+    "keywords": ["cat food"]
+  },
+  {
+    "slug": "dog-food",
+    "canonicalName": "dog food",
+    "category": "pet",
+    "keywords": ["dog food"]
+  },
+
+
+  {
+    "slug": "onions",
+    "canonicalName": "onions",
+    "category": "vegetables",
+    "keywords": ["onions", "onion"]
+  },
+  {
+    "slug": "garlic",
+    "canonicalName": "garlic",
+    "category": "vegetables",
+    "keywords": ["garlic"]
+  },
+  {
+    "slug": "cucumbers",
+    "canonicalName": "cucumber",
+    "category": "vegetables",
+    "keywords": ["cucumber", "cucumbers"]
+  },
+  {
+    "slug": "peppers",
+    "canonicalName": "bell peppers",
+    "category": "vegetables",
+    "keywords": ["peppers", "bell peppers"]
+  },
+  {
+    "slug": "crisps",
+    "canonicalName": "crisps",
+    "category": "snacks",
+    "keywords": ["crisps", "potato crisps"]
+  },
+  {
+    "slug": "biscuits",
+    "canonicalName": "biscuits",
+    "category": "snacks",
+    "keywords": ["biscuits", "cookies"]
+  },
+  {
+    "slug": "coffee",
+    "canonicalName": "coffee",
+    "category": "drinks",
+    "keywords": ["coffee", "instant coffee"]
+  },
+  {
+    "slug": "tea",
+    "canonicalName": "tea bags",
+    "category": "drinks",
+    "keywords": ["tea", "tea bags"]
+  },
+  {
+    "slug": "cereal",
+    "canonicalName": "breakfast cereal",
+    "category": "breakfast",
+    "keywords": ["cereal", "breakfast cereal"]
+  },
+  {
+    "slug": "olive-oil",
+    "canonicalName": "olive oil",
+    "category": "cupboard",
+    "keywords": ["olive oil"]
+  },
+  {
+    "slug": "toothpaste",
+    "canonicalName": "toothpaste",
+    "category": "toiletries",
+    "keywords": ["toothpaste"]
+  },
+  {
+    "slug": "toothbrush",
+    "canonicalName": "toothbrush",
+    "category": "toiletries",
+    "keywords": ["toothbrush"]
+  }
+]

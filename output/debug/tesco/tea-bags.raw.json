@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Yorkshire Tea 210 Tea Bags",
+      "brand": "Yorkshire Tea",
+      "size": "210",
+      "unit": "tea bags",
+      "price": 5.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Yorkshire Tea 210 Tea Bags 656G £5.99"
+    },
+    {
+      "name": "PG Tips Decaf Black Tea 70 Tea Bags",
+      "brand": "PG Tips",
+      "size": "70",
+      "unit": "tea bags",
+      "price": 3,
+      "loyaltyPrice": 2.5,
+      "buy2Price": null,
+      "confidence": 0.93,
+      "evidenceText": "PG Tips Decaf Black Tea 70 Tea Bags 203g £3.00 Clubcard Price £2.50"
+    },
+    {
+      "name": "Tetley Original Tea 240 Tea Bags",
+      "brand": "Tetley",
+      "size": "240",
+      "unit": "tea bags",
+      "price": 4.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Tetley 240 Tea Bags 750G £4.99"
+    },
+    {
+      "name": "PG Tips Decaf Black Tea 160 Tea Bags",
+      "brand": "PG Tips",
+      "size": "160",
+      "unit": "tea bags",
+      "price": 6,
+      "loyaltyPrice": 5,
+      "buy2Price": null,
+      "confidence": 0.96,
+      "evidenceText": "PG Tips Decaf Black Tea 160 Tea Bags 464g £6.00 Clubcard Price £5.00"
+    },
+    {
+      "name": "PG Tips Original Black Tea 210 Tea Bags",
+      "brand": "PG Tips",
+      "size": "210",
+      "unit": "tea bags",
+      "price": 5.25,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.96,
+      "evidenceText": "PG Tips Original Black Tea 210 Tea Bags 609g £5.25"
+    }
+  ]
+}

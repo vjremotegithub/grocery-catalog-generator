@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "British Semi Skimmed Milk 2.27L (4 pint)",
+      "brand": "Sainsbury's",
+      "size": "2.27L",
+      "unit": "L",
+      "price": 1.65,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Sainsbury's British Semi Skimmed Milk 2.27L (4 pint) £1.65 73p / ltr"
+    },
+    {
+      "name": "British Semi Skimmed Milk 1.13L (2 pint)",
+      "brand": "Sainsbury's",
+      "size": "1.13L",
+      "unit": "L",
+      "price": 1.2,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Sainsbury's British Semi Skimmed Milk 1.13L (2 pint) £1.20 £1.06 / ltr"
+    },
+    {
+      "name": "British Filtered Semi Skimmed Milk 2L",
+      "brand": "Sainsbury's",
+      "size": "2L",
+      "unit": "L",
+      "price": 2.1,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.96,
+      "evidenceText": "Sainsbury's British Filtered Semi Skimmed Milk 2L £2.10 £1.05 / ltr"
+    },
+    {
+      "name": "British Semi Skimmed Milk 3.4L (6 pint)",
+      "brand": "Sainsbury's",
+      "size": "3.4L",
+      "unit": "L",
+      "price": 2.4,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Sainsbury's British Semi Skimmed Milk 3.4L (6 pint) £2.40 70p / ltr"
+    },
+    {
+      "name": "British Semi Skimmed Milk 1 Pint",
+      "brand": "Sainsbury's",
+      "size": "1 Pint",
+      "unit": "Pint",
+      "price": 0.85,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Sainsbury's British Semi Skimmed Milk 1 Pint 85p £1.50 / ltr"
+    }
+  ]
+}

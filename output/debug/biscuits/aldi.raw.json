@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Digestive Biscuits",
+      "brand": "Belmont",
+      "size": "400 g",
+      "unit": "g",
+      "price": 0.59,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BELMONT Digestive Biscuits 400 G (£0.15/100 G) £0.59"
+    },
+    {
+      "name": "Caramelised Biscuits",
+      "brand": "Belmont",
+      "size": "250 g",
+      "unit": "g",
+      "price": 0.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BELMONT Caramelised Biscuits 250 G (£0.40/100 G) £0.99"
+    },
+    {
+      "name": "Cookies & Cream",
+      "brand": "Belmont",
+      "size": "154 g",
+      "unit": "g",
+      "price": 0.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BELMONT Cookies & Cream 154 G (£0.32/100 G) £0.49"
+    },
+    {
+      "name": "Rich Tea Biscuits",
+      "brand": "Belmont",
+      "size": "300 g",
+      "unit": "g",
+      "price": 0.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BELMONT Rich Tea Biscuits 300 G (£0.16/100 G) £0.49"
+    },
+    {
+      "name": "Malted Milk Biscuits",
+      "brand": "Belmont",
+      "size": "200 g",
+      "unit": "g",
+      "price": 0.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BELMONT Malted Milk Biscuits 200 G (£0.25/100 G) £0.49"
+    },
+    {
+      "name": "Sweet Biscuit Assortment",
+      "brand": "Belmont",
+      "size": "0.4 KG",
+      "unit": "kg",
+      "price": 1.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BELMONT Sweet Biscuit Assortment 0.4 KG (£4.88/1 KG) £1.95"
+    },
+    {
+      "name": "Choc Chip Cookies",
+      "brand": "Belmont",
+      "size": "200 g",
+      "unit": "g",
+      "price": 0.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BELMONT Choc Chip Cookies 200 G (£0.38/100 G) £0.75"
+    },
+    {
+      "name": "Chocolate Chunk Cookies",
+      "brand": "Belmont",
+      "size": "200 g",
+      "unit": "g",
+      "price": 0.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BELMONT Chocolate Chunk Cookies 200 G (£0.50/100 G) £0.99"
+    }
+  ]
+}

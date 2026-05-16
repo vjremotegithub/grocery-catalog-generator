@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Frozen Deepwater Prawns",
+      "brand": "The Fishmonger",
+      "size": "0.25 KG",
+      "unit": "pack",
+      "price": 2.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Frozen Deepwater Prawns 0.25 KG (£10.76/1 KG) £2.69"
+    },
+    {
+      "name": "Cooked & Peeled Coldwater Prawns",
+      "brand": "The Fishmonger",
+      "size": "0.15 KG",
+      "unit": "pack",
+      "price": 1.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Cooked & Peeled Coldwater Prawns 0.15 KG (£13.27/1 KG) £1.99"
+    },
+    {
+      "name": "Cooked & Peeled King Prawns",
+      "brand": "The Fishmonger",
+      "size": "0.15 KG",
+      "unit": "pack",
+      "price": 2.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Cooked & Peeled King Prawns 0.15 KG (£16.60/1 KG) £2.49"
+    },
+    {
+      "name": "Raw Jumbo King Prawns",
+      "brand": "The Fishmonger",
+      "size": "0.17 KG",
+      "unit": "pack",
+      "price": 2.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Raw Jumbo King Prawns 0.17 KG (£15.82/1 KG) £2.69"
+    },
+    {
+      "name": "Cooked & Peeled Jumbo King Prawns",
+      "brand": "The Fishmonger",
+      "size": "0.17 KG",
+      "unit": "pack",
+      "price": 2.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Cooked & Peeled Jumbo King Prawns 0.17 KG (£15.82/1 KG) £2.69"
+    },
+    {
+      "name": "Cooked & Peeled Extra Large King Prawns",
+      "brand": "Specially Selected",
+      "size": "0.15 KG",
+      "unit": "pack",
+      "price": 2.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Cooked & Peeled Extra Large King Prawns 0.15 KG (£19.93/1 KG) £2.99"
+    },
+    {
+      "name": "Extra Large Ecuadorian Cooked King Prawns",
+      "brand": "Specially Selected",
+      "size": "0.18 KG",
+      "unit": "pack",
+      "price": 2.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Extra Large Ecuadorian Cooked King Prawns 0.18 KG (£16.61/1 KG) £2.99"
+    },
+    {
+      "name": "Extra Large Ecuadorian Raw King Prawns",
+      "brand": "Specially Selected",
+      "size": "0.18 KG",
+      "unit": "pack",
+      "price": 2.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Extra Large Ecuadorian Raw King Prawns 0.18 KG (£16.61/1 KG) £2.99"
+    }
+  ]
+}

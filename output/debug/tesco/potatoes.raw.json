@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Tesco Large Baking Potatoes Loose",
+      "brand": "Tesco",
+      "size": "Loose",
+      "unit": null,
+      "price": 0.24,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Large Baking Potatoes Loose £0.24 £0.79/kg"
+    },
+    {
+      "name": "Tesco Maris Piper Potatoes 2Kg",
+      "brand": "Tesco",
+      "size": "2Kg",
+      "unit": "kg",
+      "price": 1.8,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Maris Piper Potatoes 2Kg £1.80 £0.90/kg"
+    },
+    {
+      "name": "Tesco All Rounder Potatoes 2Kg",
+      "brand": "Tesco",
+      "size": "2Kg",
+      "unit": "kg",
+      "price": 1.32,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco All Rounder Potatoes 2Kg £1.32 £0.66/kg"
+    },
+    {
+      "name": "Tesco Maris Piper Potatoes 1.25Kg",
+      "brand": "Tesco",
+      "size": "1.25Kg",
+      "unit": "kg",
+      "price": 1.45,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Maris Piper Potatoes 1.25Kg £1.45 £1.16/kg"
+    },
+    {
+      "name": "Tesco Baby Potatoes 1Kg",
+      "brand": "Tesco",
+      "size": "1Kg",
+      "unit": "kg",
+      "price": 1.09,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Baby Potatoes 1Kg £1.09 £1.09/kg"
+    }
+  ]
+}

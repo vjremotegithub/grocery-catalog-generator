@@ -1,0 +1,26 @@
+{
+  "options": [
+    {
+      "name": "Bananas",
+      "brand": "Nature's Pick",
+      "size": "5 Each",
+      "unit": "each",
+      "price": 0.78,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK\nBananas\n5 Each\n(£0.16/1 Each)\n£0.78"
+    },
+    {
+      "name": "Banana",
+      "brand": "Nature's Pick",
+      "size": "1 Each",
+      "unit": "each",
+      "price": 0.16,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK\nBanana\n1 Each\n(£0.16/1 Each)\n£0.16"
+    }
+  ]
+}

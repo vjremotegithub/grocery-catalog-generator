@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Sainsbury's Gold Roast Instant Coffee",
+      "brand": "Sainsbury's",
+      "size": "200g",
+      "unit": "g",
+      "price": 2.85,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Gold Roast Instant Coffee 200g £2.85 £14.25 / kg"
+    },
+    {
+      "name": "Nescafe Azera Americano Instant Coffee",
+      "brand": "Nescafe",
+      "size": "140g",
+      "unit": "g",
+      "price": 8.25,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Nescafe Azera Americano Instant Coffee 140g £8.25 £58.93 / kg"
+    },
+    {
+      "name": "Nescafe Azera Americano Instant Coffee",
+      "brand": "Nescafe",
+      "size": "90g",
+      "unit": "g",
+      "price": 7.25,
+      "loyaltyPrice": 3.85,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Nescafe Azera Americano Instant Coffee 90g £3.85 £42.78 / kg £7.25 £80.56 / kg"
+    },
+    {
+      "name": "Nescafe Gold Blend Instant Coffee",
+      "brand": "Nescafe",
+      "size": "190g",
+      "unit": "g",
+      "price": 8.35,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Nescafe Gold Blend Instant Coffee 190g £8.35 £43.95 / kg"
+    },
+    {
+      "name": "Sainsbury's Fairtrade Italian Style Coffee, Strength 4",
+      "brand": "Sainsbury's",
+      "size": "227g",
+      "unit": "g",
+      "price": 3.6,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Fairtrade Italian Style Coffee, Strength 4 227g £3.60 £15.86 / kg"
+    }
+  ]
+}

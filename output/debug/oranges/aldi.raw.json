@@ -1,0 +1,37 @@
+{
+  "options": [
+    {
+      "name": "Oranges",
+      "brand": "Nature's Pick",
+      "size": "5 Each",
+      "unit": "each",
+      "price": 1.29,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK Oranges 5 Each (£0.26/1 Each) £1.29"
+    },
+    {
+      "name": "Large Oranges",
+      "brand": "Nature's Pick",
+      "size": "4 Each",
+      "unit": "each",
+      "price": 1.89,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK Large Oranges 4 Each (£0.47/1 Each) £1.89"
+    },
+    {
+      "name": "Wonky Oranges",
+      "brand": "Everyday Essentials",
+      "size": "5 Each",
+      "unit": "each",
+      "price": 0.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "EVERYDAY ESSENTIALS Wonky Oranges 5 Each (£0.20/1 Each) £0.99"
+    }
+  ]
+}

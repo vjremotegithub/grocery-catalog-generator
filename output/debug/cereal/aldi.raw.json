@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Multigrain Hoops Cereal",
+      "brand": "Harvest Morn",
+      "size": "375 G",
+      "unit": null,
+      "price": 0.79,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "HARVEST MORN Multigrain Hoops Cereal 375 G (£0.21/100 G) £0.79"
+    },
+    {
+      "name": "Fruit & Fibre Cereal",
+      "brand": "Harvest Morn",
+      "size": "750 G",
+      "unit": null,
+      "price": 1.29,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "HARVEST MORN Fruit & Fibre Cereal 750 G (£0.17/100 G) £1.29"
+    },
+    {
+      "name": "Corn Flakes Cereal",
+      "brand": "Harvest Morn",
+      "size": "0.5 KG",
+      "unit": null,
+      "price": 0.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "HARVEST MORN Corn Flakes Cereal 0.5 KG (£1.90/1 KG) £0.95"
+    },
+    {
+      "name": "Choco Pillows Cereal",
+      "brand": "Harvest Morn",
+      "size": "500 G",
+      "unit": null,
+      "price": 1.15,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "HARVEST MORN Choco Pillows Cereal 500 G (£0.23/100 G) £1.15"
+    },
+    {
+      "name": "Malted Wheaties Cereal",
+      "brand": "Harvest Morn",
+      "size": "625 G",
+      "unit": null,
+      "price": 0.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "HARVEST MORN Malted Wheaties Cereal 625 G (£0.15/100 G) £0.95"
+    },
+    {
+      "name": "Honey Cereal Hoops",
+      "brand": "Harvest Morn",
+      "size": "375 G",
+      "unit": null,
+      "price": 0.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "HARVEST MORN Honey Cereal Hoops 375 G (£0.20/100 G) £0.75"
+    },
+    {
+      "name": "Frosted Wheaties Cereal",
+      "brand": "Harvest Morn",
+      "size": "500 G",
+      "unit": null,
+      "price": 1.85,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "HARVEST MORN Frosted Wheaties Cereal 500 G (£0.37/100 G) £1.85"
+    },
+    {
+      "name": "Crisp Rice Cereal",
+      "brand": "Harvest Morn",
+      "size": "375 G",
+      "unit": null,
+      "price": 0.89,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "HARVEST MORN Crisp Rice Cereal 375 G (£0.24/100 G) £0.89"
+    }
+  ]
+}

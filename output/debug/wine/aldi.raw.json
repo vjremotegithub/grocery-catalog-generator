@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Rosé Wine",
+      "brand": "Baron St Jean",
+      "size": "75 cl",
+      "unit": null,
+      "price": 3.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BARON ST JEAN Rosé Wine 75 CL (£3.49/75 CL) £3.49"
+    },
+    {
+      "name": "Red Wine",
+      "brand": "Baron St Jean",
+      "size": "75 cl",
+      "unit": null,
+      "price": 3.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BARON ST JEAN Red Wine 75 CL (£3.49/75 CL) £3.49"
+    },
+    {
+      "name": "White Wine",
+      "brand": "Baron St Jean",
+      "size": "75 cl",
+      "unit": null,
+      "price": 3.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BARON ST JEAN White Wine 75 CL (£3.49/75 CL) £3.49"
+    },
+    {
+      "name": "Bordeaux",
+      "brand": "Pierre Jaurant",
+      "size": "75 cl",
+      "unit": null,
+      "price": 5.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "PIERRE JAURANT Bordeaux 75 CL (£5.49/75 CL) £5.49"
+    },
+    {
+      "name": "Chianti",
+      "brand": "Costellore",
+      "size": "75 cl",
+      "unit": null,
+      "price": 5.59,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "COSTELLORE Chianti 75 CL (£5.59/75 CL) £5.59"
+    },
+    {
+      "name": "Australian Chardonnay",
+      "brand": "Kooliburra",
+      "size": "75 cl",
+      "unit": null,
+      "price": 4.39,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "KOOLIBURRA Australian Chardonnay 75 CL (£4.39/75 CL) £4.39"
+    },
+    {
+      "name": "Australian Jammy Rosé",
+      "brand": "Kooliburra",
+      "size": "75 cl",
+      "unit": null,
+      "price": 5.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "KOOLIBURRA Australian Jammy Rosé 75 CL (£5.99/75 CL) £5.99"
+    },
+    {
+      "name": "Spanish Rioja Blanco",
+      "brand": "Baron Amarillo",
+      "size": "75 cl",
+      "unit": null,
+      "price": 6.19,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "BARON AMARILLO Spanish Rioja Blanco 75 CL (£6.19/75 CL) £6.19"
+    }
+  ]
+}

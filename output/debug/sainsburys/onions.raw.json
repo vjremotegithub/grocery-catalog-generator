@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Brown Onions x3",
+      "brand": "Sainsbury's",
+      "size": null,
+      "unit": null,
+      "price": 0.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Sainsbury's Brown Onions x3 95p 32p / ea"
+    },
+    {
+      "name": "Spring Onions Bunch 100g",
+      "brand": "Sainsbury's",
+      "size": "100",
+      "unit": "g",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Sainsbury's Spring Onions Bunch 100g 69p 69p / ea"
+    },
+    {
+      "name": "Onions 1kg",
+      "brand": "Sainsbury's",
+      "size": "1",
+      "unit": "kg",
+      "price": 0.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.99,
+      "evidenceText": "Sainsbury's Onions 1kg 99p 99p / kg"
+    },
+    {
+      "name": "Onions Loose",
+      "brand": "Sainsbury's",
+      "size": null,
+      "unit": null,
+      "price": 0.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Sainsbury's Onions Loose 99p 99p / kg"
+    },
+    {
+      "name": "Extra Large Brown Onions x2",
+      "brand": "Sainsbury's",
+      "size": null,
+      "unit": null,
+      "price": 1.4,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.96,
+      "evidenceText": "Sainsbury's Extra Large Brown Onions x2 £1.40 70p / ea"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Sainsbury's Soft Medium Sliced White Bread",
+      "brand": "Sainsbury's",
+      "size": "800g",
+      "unit": null,
+      "price": 0.74,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Soft Medium Sliced White Bread 800g 74p 93p / kg"
+    },
+    {
+      "name": "Hovis Soft Medium Sliced White Bread",
+      "brand": "Hovis",
+      "size": "800g",
+      "unit": null,
+      "price": 1.39,
+      "loyaltyPrice": 1.25,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Hovis Soft Medium Sliced White Bread 800g £1.25 £1.56 / kg £1.39 £1.74 / kg"
+    },
+    {
+      "name": "Warburtons Soft Farmhouse Thick Sliced White Bread",
+      "brand": "Warburtons",
+      "size": "800g",
+      "unit": null,
+      "price": 1.65,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Warburtons Soft Farmhouse Thick Sliced White Bread 800g £1.65 £2.06 / kg"
+    },
+    {
+      "name": "Sainsbury's Toastie Thick Sliced White Bread",
+      "brand": "Sainsbury's",
+      "size": "800g",
+      "unit": null,
+      "price": 0.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Sainsbury's Toastie Thick Sliced White Bread 800g 75p 94p / kg"
+    },
+    {
+      "name": "Warburtons Toastie Thick Sliced White Bread",
+      "brand": "Warburtons",
+      "size": "800g",
+      "unit": null,
+      "price": 1.4,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Warburtons Toastie Thick Sliced White Bread 800g £1.40 £1.75 / kg"
+    }
+  ]
+}

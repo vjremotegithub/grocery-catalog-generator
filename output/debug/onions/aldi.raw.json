@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Brown Onions",
+      "brand": "Aldi",
+      "size": "1 KG",
+      "unit": "kg",
+      "price": 0.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK Brown Onions 1 KG (£0.99/1 KG) £0.99"
+    },
+    {
+      "name": "Red Onions",
+      "brand": "Aldi",
+      "size": "1 KG",
+      "unit": "kg",
+      "price": 0.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK Red Onions 1 KG (£0.95/1 KG) £0.95"
+    },
+    {
+      "name": "Spring Onions",
+      "brand": "Aldi",
+      "size": "0.1 KG",
+      "unit": "kg",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK Spring Onions 0.1 KG (£6.90/1 KG) £0.69"
+    },
+    {
+      "name": "Jumbo Spring Onions",
+      "brand": "Aldi",
+      "size": "0.13 KG",
+      "unit": "kg",
+      "price": 0.89,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK Jumbo Spring Onions 0.13 KG (£6.85/1 KG) £0.89"
+    },
+    {
+      "name": "Large Brown Onions",
+      "brand": "Aldi",
+      "size": "3 Each",
+      "unit": "each",
+      "price": 0.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK Large Brown Onions 3 Each (£0.32/1 Each) £0.95"
+    },
+    {
+      "name": "Large Red Onions",
+      "brand": "Aldi",
+      "size": "3 Each",
+      "unit": "each",
+      "price": 0.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK Large Red Onions 3 Each (£0.32/1 Each) £0.95"
+    },
+    {
+      "name": "British Wonky Brown Onions",
+      "brand": "Aldi",
+      "size": "1 KG",
+      "unit": "kg",
+      "price": 0.8,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "EVERYDAY ESSENTIALS British Wonky Brown Onions 1 KG (£0.80/1 KG) £0.80"
+    },
+    {
+      "name": "Extra Large Mild Onions",
+      "brand": "Aldi",
+      "size": "3 Each",
+      "unit": "each",
+      "price": 1.59,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "NATURE'S PICK Extra Large Mild Onions 3 Each (£0.53/1 Each) £1.59"
+    }
+  ]
+}

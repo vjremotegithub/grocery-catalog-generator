@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Tesco British Whole Milk",
+      "brand": "Tesco",
+      "size": "2.272L",
+      "unit": "4 Pints",
+      "price": 1.65,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco British Whole Milk 2.272L, 4 Pints £1.65 £0.73/litre"
+    },
+    {
+      "name": "Tesco British Whole Milk",
+      "brand": "Tesco",
+      "size": "1.13L",
+      "unit": "2 Pints",
+      "price": 1.2,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco British Whole Milk 1.13L, 2 Pints £1.20 £1.06/litre"
+    },
+    {
+      "name": "Tesco British Whole Milk",
+      "brand": "Tesco",
+      "size": "568ml",
+      "unit": "1 Pint",
+      "price": 0.85,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco British Whole Milk 568Ml, 1 Pint £0.85 £1.50/litre"
+    },
+    {
+      "name": "Cravendale Filtered Fresh Whole Milk",
+      "brand": "Cravendale",
+      "size": "2L",
+      "unit": null,
+      "price": 2.5,
+      "loyaltyPrice": null,
+      "buy2Price": 4,
+      "confidence": 1,
+      "evidenceText": "Cravendale Filtered Fresh Whole Milk 2L Fresher for Longer £2.50 £1.25/litre Any 2 for £4 Clubcard"
+    },
+    {
+      "name": "Tesco Filtered Whole Milk",
+      "brand": "Tesco",
+      "size": "2L",
+      "unit": null,
+      "price": 2.1,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Tesco Filtered Whole Milk 2 Litre £2.10 £1.05/litre"
+    }
+  ]
+}

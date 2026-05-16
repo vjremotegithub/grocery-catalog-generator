@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "British Free Range Eggs Large x12",
+      "brand": "Sainsbury's",
+      "size": "12",
+      "unit": "eggs",
+      "price": 3.3,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Sainsbury's British Free Range Eggs Large x12 £3.30 28p / ea"
+    },
+    {
+      "name": "British Free Range Eggs Medium x12",
+      "brand": "Sainsbury's",
+      "size": "12",
+      "unit": "eggs",
+      "price": 2.85,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Sainsbury's British Free Range Eggs Medium x12 £2.85 24p / ea"
+    },
+    {
+      "name": "British Free Range Eggs Large x6",
+      "brand": "Sainsbury's",
+      "size": "6",
+      "unit": "eggs",
+      "price": 2.1,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Sainsbury's British Free Range Eggs Large x6 £2.10 35p / ea"
+    },
+    {
+      "name": "British Free Range Eggs Medium x6",
+      "brand": "Sainsbury's",
+      "size": "6",
+      "unit": "eggs",
+      "price": 1.8,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Sainsbury's British Free Range Eggs Medium x6 £1.80 30p / ea"
+    },
+    {
+      "name": "British Free Range Eggs Medium x15",
+      "brand": "Sainsbury's",
+      "size": "15",
+      "unit": "eggs",
+      "price": 3.5,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Sainsbury's British Free Range British Eggs Medium x15 £3.50 23p / ea"
+    }
+  ]
+}

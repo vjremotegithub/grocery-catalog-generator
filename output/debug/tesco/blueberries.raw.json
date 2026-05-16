@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Tesco Blueberries",
+      "brand": "Tesco",
+      "size": "250g",
+      "unit": "g",
+      "price": 2.6,
+      "loyaltyPrice": 2.15,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Blueberries 250G £2.60 Clubcard Price £2.15 Clubcard Price (£8.60/kg)"
+    },
+    {
+      "name": "Rosedene Farms Blueberries",
+      "brand": "Rosedene Farms",
+      "size": "150g",
+      "unit": "g",
+      "price": 1.43,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Rosedene Farms Blueberries 150G £1.43 Aldi Price Match"
+    },
+    {
+      "name": "Tesco Blueberries",
+      "brand": "Tesco",
+      "size": "150g",
+      "unit": "g",
+      "price": 2,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Blueberries 150G £2.00"
+    },
+    {
+      "name": "Tesco Blueberries",
+      "brand": "Tesco",
+      "size": "500g",
+      "unit": "g",
+      "price": 4.55,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Blueberries 500G £4.55"
+    },
+    {
+      "name": "Tesco Finest Blueberries",
+      "brand": "Tesco Finest",
+      "size": "150g",
+      "unit": "g",
+      "price": 2.6,
+      "loyaltyPrice": 2.15,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Finest Blueberries 150G £2.60 Clubcard Price £2.15 Clubcard Price (£14.33/kg)"
+    }
+  ]
+}

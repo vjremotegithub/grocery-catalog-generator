@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Still Spring Water",
+      "brand": "Everyday Essentials",
+      "size": "2 L",
+      "unit": "L",
+      "price": 0.39,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "EVERYDAY ESSENTIALS\nStill Spring Water\n2 L\n(£0.20/1 L)\n£0.39"
+    },
+    {
+      "name": "Sparkling Spring Water",
+      "brand": "Everyday Essentials",
+      "size": "2 L",
+      "unit": "L",
+      "price": 0.39,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "EVERYDAY ESSENTIALS\nSparkling Spring Water\n2 L\n(£0.20/1 L)\n£0.39"
+    },
+    {
+      "name": "Still Spring Water",
+      "brand": "Aqua Vale",
+      "size": "5,000 ML",
+      "unit": "ML",
+      "price": 1.29,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "AQUA VALE\nStill Spring Water\n5,000 ML\n(£0.03/100 ML)\n£1.29"
+    },
+    {
+      "name": "Sparkling Water 6 Pack",
+      "brand": "Aqua Vale",
+      "size": "3,000 ML",
+      "unit": "ML",
+      "price": 1.19,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "AQUA VALE\nSparkling Water 6 Pack\n3,000 ML\n(£0.04/100 ML)\n£1.19"
+    },
+    {
+      "name": "Sparkling Water 4 Pack",
+      "brand": "Aqua Vale",
+      "size": "800 ML",
+      "unit": "ML",
+      "price": 1.55,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "AQUA VALE\nSparkling Water 4 Pack\n800 ML\n(£0.19/100 ML)\n£1.55"
+    },
+    {
+      "name": "Still Water 6 Pack",
+      "brand": "Aqua Vale",
+      "size": "12,000 ML",
+      "unit": "ML",
+      "price": 2.25,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "AQUA VALE\nStill Water 6 Pack\n12,000 ML\n(£0.02/100 ML)\n£2.25"
+    },
+    {
+      "name": "Still Spring Water 12 Pack",
+      "brand": "Aqua Vale",
+      "size": "6,000 ML",
+      "unit": "ML",
+      "price": 1.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "AQUA VALE\nStill Spring Water 12 Pack\n6,000 ML\n(£0.03/100 ML)\n£1.75"
+    },
+    {
+      "name": "Strawberry Flavoured Still Water",
+      "brand": "Aqua Vale",
+      "size": "1 L",
+      "unit": "L",
+      "price": 0.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "AQUA VALE\nStrawberry Flavoured Still Water\n1 L\n(£0.49/1 L)\n£0.49 £0.55"
+    }
+  ]
+}

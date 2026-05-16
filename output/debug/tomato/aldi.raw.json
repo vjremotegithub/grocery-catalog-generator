@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Cherry Tomatoes",
+      "brand": "Nature's Pick",
+      "size": "0.33 KG",
+      "unit": "kg",
+      "price": 0.89,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Nature's Pick Cherry Tomatoes 0.33 KG (£2.70/1 KG) Save 6% £0.89 £0.95"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "brand": "Everyday Essentials",
+      "size": "0.25 KG",
+      "unit": "kg",
+      "price": 0.62,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Everyday Essentials Cherry Tomatoes 0.25 KG (£2.48/1 KG) £0.62"
+    },
+    {
+      "name": "Salad Tomatoes",
+      "brand": "Nature's Pick",
+      "size": "6 Each",
+      "unit": "each",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Nature's Pick Salad Tomatoes 6 Each (£0.12/1 Each) Save 30% £0.69 £0.99"
+    },
+    {
+      "name": "Piccolato Tomatoes",
+      "brand": "Specially Selected",
+      "size": "0.22 KG",
+      "unit": "kg",
+      "price": 1.89,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Specially Selected Piccolato Tomatoes 0.22 KG (£8.59/1 KG) £1.89"
+    },
+    {
+      "name": "Piccolato Tomatoes",
+      "brand": "Specially Selected",
+      "size": "0.4 KG",
+      "unit": "kg",
+      "price": 2.79,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Specially Selected Piccolato Tomatoes 0.4 KG (£6.98/1 KG) £2.79"
+    },
+    {
+      "name": "Baby Plum Tomatoes",
+      "brand": "Everyday Essentials",
+      "size": "0.25 KG",
+      "unit": "kg",
+      "price": 0.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Everyday Essentials Baby Plum Tomatoes 0.25 KG (£3.00/1 KG) £0.75"
+    },
+    {
+      "name": "Vine Ripened Tomatoes",
+      "brand": "Nature's Pick",
+      "size": "0.5 KG",
+      "unit": "kg",
+      "price": 1.29,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Nature's Pick Vine Ripened Tomatoes 0.5 KG (£2.58/1 KG) £1.29"
+    },
+    {
+      "name": "Regal Vine Tomatoes",
+      "brand": "Specially Selected",
+      "size": "0.45 KG",
+      "unit": "kg",
+      "price": 1.89,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Specially Selected Regal Vine Tomatoes 0.45 KG (£4.20/1 KG) £1.89"
+    }
+  ]
+}

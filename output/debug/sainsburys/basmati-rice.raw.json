@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Basmati Rice 1kg",
+      "brand": "Sainsbury's",
+      "size": "1kg",
+      "unit": "kg",
+      "price": 1.79,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Sainsbury's Basmati Rice 1kg £1.79 (£1.79 / kg)"
+    },
+    {
+      "name": "Basmati Rice 500g",
+      "brand": "Sainsbury's",
+      "size": "500g",
+      "unit": "g",
+      "price": 0.89,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Sainsbury's Basmati Rice 500g 89p (£1.78 / kg)"
+    },
+    {
+      "name": "Basmati Rice 2kg",
+      "brand": "Sainsbury's",
+      "size": "2kg",
+      "unit": "kg",
+      "price": 3.58,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.96,
+      "evidenceText": "Sainsbury's Basmati Rice 2kg £3.58 (£1.79 / kg)"
+    },
+    {
+      "name": "Pure Basmati Rice 1kg",
+      "brand": "Tilda",
+      "size": "1kg",
+      "unit": "kg",
+      "price": 4,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.93,
+      "evidenceText": "Tilda Pure Basmati Rice 1kg £4.00 (£4.00 / kg)"
+    },
+    {
+      "name": "Basmati Rice 500g",
+      "brand": "Tilda",
+      "size": "500g",
+      "unit": "g",
+      "price": 3,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.92,
+      "evidenceText": "Tilda Pure Basmati Rice 500g £3.00 (£6.00 / kg)"
+    }
+  ]
+}

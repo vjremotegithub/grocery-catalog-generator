@@ -1,0 +1,27 @@
+{
+  "name": "grocery-catalog-generator",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "tsx scripts/generate-catalogs.ts",
+    "generate:manual": "tsx scripts/generate-catalogs.ts --manual",
+    "generate:aldi": "tsx scripts/generate-catalogs.ts --stores aldi",
+    "generate:sainsburys": "tsx scripts/generate-catalogs.ts --stores sainsburys",
+    "generate:tesco": "tsx scripts/generate-catalogs.ts --stores tesco",
+    "open:urls": "tsx scripts/open-search-urls.ts",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "dotenv": "latest",
+    "openai": "latest",
+    "playwright": "latest",
+    "sharp": "^0.34.5",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}

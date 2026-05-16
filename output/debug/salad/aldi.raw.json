@@ -1,0 +1,92 @@
+{
+  "options": [
+    {
+      "name": "Salad Tomatoes",
+      "brand": "Aldi",
+      "size": "6 Each",
+      "unit": null,
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Salad Tomatoes\n6 Each\n£0.69 £0.99"
+    },
+    {
+      "name": "Bistro Salad",
+      "brand": "Aldi",
+      "size": "0.16 KG",
+      "unit": "KG",
+      "price": 0.89,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Bistro Salad\n0.16 KG\n£0.89"
+    },
+    {
+      "name": "Classic Salad",
+      "brand": "Aldi",
+      "size": "0.145 KG",
+      "unit": "KG",
+      "price": 0.75,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Classic Salad\n0.145 KG\n£0.75"
+    },
+    {
+      "name": "Rainbow Salad",
+      "brand": "Aldi",
+      "size": "0.15 KG",
+      "unit": "KG",
+      "price": 0.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Rainbow Salad\n0.15 KG\n£0.99 £1.09"
+    },
+    {
+      "name": "House Salad",
+      "brand": "Aldi",
+      "size": "0.12 KG",
+      "unit": "KG",
+      "price": 0.62,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "House Salad\n0.12 KG\n£0.62"
+    },
+    {
+      "name": "Butterhead Salad",
+      "brand": "Aldi",
+      "size": "0.08 KG",
+      "unit": "KG",
+      "price": 0.85,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Butterhead Salad\n0.08 KG\n£0.85"
+    },
+    {
+      "name": "Crispy Leaf Salad",
+      "brand": "Aldi",
+      "size": "0.12 KG",
+      "unit": "KG",
+      "price": 0.85,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Crispy Leaf Salad\n0.12 KG\n£0.85"
+    },
+    {
+      "name": "Italian Style Salad",
+      "brand": "Aldi",
+      "size": "0.1 KG",
+      "unit": "KG",
+      "price": 0.69,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Italian Style Salad\n0.1 KG\n£0.69"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Tesco Gala Apples",
+      "brand": "Tesco",
+      "size": null,
+      "unit": null,
+      "price": 1.8,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Gala Apples £1.80 £0.36/each"
+    },
+    {
+      "name": "Tesco Pink Lady Apples 5 Pack",
+      "brand": "Tesco",
+      "size": "5 Pack",
+      "unit": null,
+      "price": 2.9,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.98,
+      "evidenceText": "Tesco Pink Lady Apples 5 Pack £2.90 £0.58/each"
+    },
+    {
+      "name": "Tesco Braeburn Apple Minimum 5 Pack",
+      "brand": "Tesco",
+      "size": "Minimum 5 Pack",
+      "unit": null,
+      "price": 1.8,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Tesco Braeburn Apple Minimum 5 Pack £1.80 £0.36/each"
+    },
+    {
+      "name": "Tesco British Apples Minimum 5 Pack",
+      "brand": "Tesco",
+      "size": "Minimum 5 Pack",
+      "unit": null,
+      "price": 1.8,
+      "loyaltyPrice": 1.2,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Tesco British Apples Minimum 5 Pack £1.80 £0.36/each Clubcard Price £1.20 Save 1..."
+    },
+    {
+      "name": "Tesco Jazz Apple 6 Pack",
+      "brand": "Tesco",
+      "size": "6 Pack",
+      "unit": null,
+      "price": 2.4,
+      "loyaltyPrice": 2,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Tesco Jazz Apple 6 Pack £2.40 £0.40/each £2.00 Clubcard Price (£0.33/each)"
+    }
+  ]
+}

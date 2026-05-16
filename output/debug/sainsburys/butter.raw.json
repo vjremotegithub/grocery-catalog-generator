@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "Sainsbury's British Butter, Salted",
+      "brand": "Sainsbury's",
+      "size": "250g",
+      "unit": "g",
+      "price": 1.99,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Sainsbury's British Butter, Salted 250g £1.99 £7.96/kg"
+    },
+    {
+      "name": "Sainsbury's British Butter, Salted",
+      "brand": "Sainsbury's",
+      "size": "500g",
+      "unit": "g",
+      "price": 3.98,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Sainsbury's British Butter, Salted 500g £3.98 £7.96/kg"
+    },
+    {
+      "name": "Lurpak Slightly Salted Butter",
+      "brand": "Lurpak",
+      "size": "200g",
+      "unit": "g",
+      "price": 2.8,
+      "loyaltyPrice": 1.95,
+      "buy2Price": null,
+      "confidence": 0.95,
+      "evidenceText": "Lurpak Slightly Salted Butter 200g £1.95 £0.75/kg Nectar Price £2.80 £14.00/kg"
+    },
+    {
+      "name": "Anchor Salted Butter",
+      "brand": "Anchor",
+      "size": "200g",
+      "unit": "g",
+      "price": 2.6,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.9,
+      "evidenceText": "Anchor Salted Butter 200g £2.60 £13.00/kg"
+    },
+    {
+      "name": "Country Life Salted Butter",
+      "brand": "Country Life",
+      "size": "200g",
+      "unit": "g",
+      "price": 1.5,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.9,
+      "evidenceText": "Country Life Salted Butter 200g £1.50 £7.50/kg"
+    }
+  ]
+}

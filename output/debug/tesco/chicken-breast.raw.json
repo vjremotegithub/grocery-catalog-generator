@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "British Chicken Breast Fillets",
+      "brand": "Tesco",
+      "size": "650g",
+      "unit": "pack",
+      "price": 4.65,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco British Chicken Breast Fillets 650G £4.65 £7.15/kg"
+    },
+    {
+      "name": "Chicken Breast Fillets",
+      "brand": "Tesco",
+      "size": "1kg",
+      "unit": "pack",
+      "price": 6.8,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Chicken Breast Fillets 1KG £6.80 £6.80/kg"
+    },
+    {
+      "name": "Chicken Breast Fillets",
+      "brand": "Tesco",
+      "size": "320g",
+      "unit": "pack",
+      "price": 2.34,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Chicken Breast Fillets 320G £2.34 £7.31/kg"
+    },
+    {
+      "name": "Chicken Breast Mini Fillets",
+      "brand": "Tesco",
+      "size": "400g",
+      "unit": "pack",
+      "price": 3.85,
+      "loyaltyPrice": 3.45,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco British Chicken Breast Mini Fillets 400G £3.85 Clubcard Price £3.45 £8.63/kg"
+    },
+    {
+      "name": "Chicken Breast Pieces",
+      "brand": "Tesco",
+      "size": "750g",
+      "unit": "pack",
+      "price": 5.95,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 1,
+      "evidenceText": "Tesco Chicken Breast Pieces 750G £5.95 £7.93/kg"
+    }
+  ]
+}

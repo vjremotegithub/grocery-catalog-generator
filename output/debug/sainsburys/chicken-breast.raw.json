@@ -1,0 +1,59 @@
+{
+  "options": [
+    {
+      "name": "1kg British Fresh Skinless & Boneless Chicken Breast Fillets",
+      "brand": "Sainsbury's",
+      "size": "1kg",
+      "unit": "kg",
+      "price": 6.49,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Sainsbury's 1kg British Fresh Skinless & Boneless Chicken Br... £6.49 £6.49 / kg"
+    },
+    {
+      "name": "320g British Fresh Skinless & Boneless Chicken Breast Fillets",
+      "brand": "Sainsbury's",
+      "size": "320g",
+      "unit": "g",
+      "price": 2.34,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Sainsbury's 320g British Fresh Skinless & Boneless Chicken B... £2.34 £7.31 / kg"
+    },
+    {
+      "name": "640g British Fresh Skinless & Boneless Chicken Breast Fillets",
+      "brand": "Sainsbury's",
+      "size": "640g",
+      "unit": "g",
+      "price": 4.42,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Sainsbury's 640g British Fresh Skinless & Boneless Chicken B... £4.42 £6.91 / kg"
+    },
+    {
+      "name": "2kg British Fresh Skinless & Boneless Chicken Breast Fillets",
+      "brand": "Sainsbury's",
+      "size": "2kg",
+      "unit": "kg",
+      "price": 12.29,
+      "loyaltyPrice": null,
+      "buy2Price": null,
+      "confidence": 0.97,
+      "evidenceText": "Sainsbury's 2kg British Fresh Skinless & Boneless Chicken Br... £12.29 £6.15 / kg"
+    },
+    {
+      "name": "400g British Fresh Diced Chicken Breast",
+      "brand": "Sainsbury's",
+      "size": "400g",
+      "unit": "g",
+      "price": 3.99,
+      "loyaltyPrice": 3,
+      "buy2Price": null,
+      "confidence": 0.96,
+      "evidenceText": "Sainsbury's 400g British Fresh Diced Chicken Breast £3.00 £7.50 / kg £3.99 £9.88 / kg"
+    }
+  ]
+}
