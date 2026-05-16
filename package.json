@@ -4,12 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "generate": "tsx scripts/generate-catalogs.ts",
-    "generate:manual": "tsx scripts/generate-catalogs.ts --manual",
-    "generate:aldi": "tsx scripts/generate-catalogs.ts --stores aldi",
-    "generate:sainsburys": "tsx scripts/generate-catalogs.ts --stores sainsburys",
-    "generate:tesco": "tsx scripts/generate-catalogs.ts --stores tesco",
-    "open:urls": "tsx scripts/open-search-urls.ts",
+    "generate": "tsx scripts/generate-from-manual-screenshots.ts",
+    "generate:aldi": "tsx scripts/generate-from-manual-screenshots.ts --stores aldi",
+    "generate:sainsburys": "tsx scripts/generate-from-manual-screenshots.ts --stores sainsburys",
+    "generate:tesco": "tsx scripts/generate-from-manual-screenshots.ts --stores tesco",
     "check": "tsc --noEmit"
   },
   "dependencies": {

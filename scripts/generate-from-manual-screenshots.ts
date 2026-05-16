@@ -50,6 +50,10 @@ const ROOT = process.cwd();
 const MANUAL_ROOT = path.join(ROOT, "manual-screenshots");
 const OUTPUT_DIR = path.join(ROOT, "output");
 
+function processedFilePath(store: StoreKey) {
+  return path.join(OUTPUT_DIR, `${store}.processed.json`);
+}
+
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
@@ -595,6 +599,54 @@ async function discoverManualItems(
   return discovered;
 }
 
+type ProcessedMap = Record<string, string>;
+type ProcessedByStore = Partial<Record<StoreKey, ProcessedMap>>;
+
+async function loadProcessedForStore(store: StoreKey): Promise<ProcessedMap> {
+  const file = processedFilePath(store);
+  if (!(await pathExists(file))) return {};
+  try {
+    return JSON.parse(await fs.readFile(file, "utf8")) as ProcessedMap;
+  } catch {
+    return {};
+  }
+}
+
+async function markProcessed(
+  processedByStore: ProcessedByStore,
+  store: StoreKey,
+  slug: string
+) {
+  const map = processedByStore[store] ?? {};
+  map[slug] = new Date().toISOString();
+  processedByStore[store] = map;
+  await fs.writeFile(processedFilePath(store), JSON.stringify(map, null, 2));
+}
+
+async function flushCatalog(store: StoreKey, newItems: CatalogItem[]) {
+  const catalogPath = path.join(OUTPUT_DIR, `${store}-catalog.json`);
+
+  let existing: CatalogItem[] = [];
+  if (await pathExists(catalogPath)) {
+    try {
+      existing = JSON.parse(await fs.readFile(catalogPath, "utf8"));
+    } catch {
+      existing = [];
+    }
+  }
+
+  const merged = new Map<string, CatalogItem>();
+  for (const item of existing) merged.set(item.id, item);
+  for (const item of newItems) merged.set(item.id, item);
+
+  const catalog = [...merged.values()].sort((a, b) =>
+    a.canonicalName.localeCompare(b.canonicalName)
+  );
+
+  await fs.writeFile(catalogPath, JSON.stringify(catalog, null, 2));
+  return catalog.length;
+}
+
 async function main() {
   if (!process.env.OPENAI_API_KEY || process.env.OPENAI_API_KEY.includes("your_")) {
     throw new Error("Missing real OPENAI_API_KEY in .env");
@@ -633,10 +685,24 @@ async function main() {
   }
 
   const discovered = await discoverManualItems(itemsToProcess, requestedStores);
-  const selected = limit ? discovered.slice(0, limit) : discovered;
+
+  const processedByStore: ProcessedByStore = {};
+  for (const store of requestedStores) {
+    processedByStore[store] = await loadProcessedForStore(store);
+  }
+  const explicitItemFilter = requestedItemSlugs !== null;
+
+  const eligible = discovered.filter((entry) => {
+    const slug = entry.item.slug || slugify(entry.item.canonicalName);
+    if (explicitItemFilter) return true; // --items always reprocesses
+    return !processedByStore[entry.store]?.[slug];
+  });
+
+  const skippedCount = discovered.length - eligible.length;
+  const selected = limit ? eligible.slice(0, limit) : eligible;
   const now = new Date().toISOString();
 
-  const catalogs: Record<StoreKey, CatalogItem[]> = {
+  const newItemsByStore: Record<StoreKey, CatalogItem[]> = {
     tesco: [],
     sainsburys: [],
     aldi: [],
@@ -649,104 +715,98 @@ async function main() {
     console.log(`Filtered to ${itemsToProcess.length} item(s): ${requestedItemSlugs.join(", ")}`);
   }
   console.log(`Found ${discovered.length} item/store screenshot sets`);
+  if (skippedCount) {
+    const files = requestedStores.map((s) => processedFilePath(s)).join(" ");
+    console.log(
+      `Skipping ${skippedCount} already-processed (delete ${files} to reprocess all)`
+    );
+  }
+  console.log(`Will process ${selected.length} this run`);
 
   for (const entry of selected) {
     const { item, store, imagePaths } = entry;
     const config = stores[store];
+    const itemSlug = item.slug || slugify(item.canonicalName);
+    const catalogId = `${store}-${itemSlug}`;
 
     console.log(`Processing ${item.canonicalName} / ${store}`);
 
-    try {
-      const allOptions: CatalogOption[] = [];
+    const allOptions: CatalogOption[] = [];
 
-      for (const imagePath of imagePaths) {
-        console.log(`  Image: ${imagePath}`);
+    for (const imagePath of imagePaths) {
+      console.log(`  Image: ${imagePath}`);
 
-        const extracted = await extractProducts(
-          imagePath,
-          item,
-          store,
-          config.brand
-        );
-
-        allOptions.push(...extracted);
-      }
-
-      const cleanedOptions = allOptions
-        .map((option) => cleanOption(option, store))
-        .filter((option) => option.price !== null)
-        .sort((a, b) => {
-          const aPrice = a.loyaltyPrice ?? a.price ?? Number.MAX_SAFE_INTEGER;
-          const bPrice = b.loyaltyPrice ?? b.price ?? Number.MAX_SAFE_INTEGER;
-          return aPrice - bPrice;
-        });
-
-      const dedupedOptions = Array.from(
-        new Map(
-          cleanedOptions.map((option) => [
-            `${option.name}-${option.size}-${option.price}-${option.loyaltyPrice}`,
-            option,
-          ])
-        ).values()
+      const extracted = await extractProducts(
+        imagePath,
+        item,
+        store,
+        config.brand
       );
 
-      if (!dedupedOptions.length) {
-        console.warn(`  No reliable options found for ${item.canonicalName} / ${store}`);
-        continue;
-      }
+      allOptions.push(...extracted);
+    }
 
-      const best = dedupedOptions[0];
-
-      catalogs[store].push({
-        id: `${store}-${item.slug || slugify(item.canonicalName)}`,
-        store,
-        canonicalName: item.canonicalName,
-        keywords: item.keywords,
-        category: item.category,
-        brand: best.brand || config.brand,
-        size: best.size,
-        unit: best.unit,
-        name: best.name,
-        price: best.price,
-        loyaltyPrice: best.loyaltyPrice,
-        options: dedupedOptions,
-        lastUpdated: now,
+    const cleanedOptions = allOptions
+      .map((option) => cleanOption(option, store))
+      .filter((option) => option.price !== null)
+      .sort((a, b) => {
+        const aPrice = a.loyaltyPrice ?? a.price ?? Number.MAX_SAFE_INTEGER;
+        const bPrice = b.loyaltyPrice ?? b.price ?? Number.MAX_SAFE_INTEGER;
+        return aPrice - bPrice;
       });
 
-      console.log(
-        `  OK: ${best.name} | £${best.price}` +
-          (best.loyaltyPrice ? ` | loyalty £${best.loyaltyPrice}` : "") +
-          ` | options ${dedupedOptions.length}`
+    const dedupedOptions = Array.from(
+      new Map(
+        cleanedOptions.map((option) => [
+          `${option.name}-${option.size}-${option.price}-${option.loyaltyPrice}`,
+          option,
+        ])
+      ).values()
+    );
+
+    if (!dedupedOptions.length) {
+      throw new Error(
+        `No reliable options found for ${item.canonicalName} / ${store}. ` +
+          `Check screenshots in manual-screenshots/${itemSlug}/${store}/ ` +
+          `or review output/debug/${itemSlug}/${store}.raw.json`
       );
-    } catch (error) {
-      console.error(`  Error for ${item.canonicalName} / ${store}:`, error);
     }
+
+    const best = dedupedOptions[0];
+
+    const newItem: CatalogItem = {
+      id: catalogId,
+      store,
+      canonicalName: item.canonicalName,
+      keywords: item.keywords,
+      category: item.category,
+      brand: best.brand || config.brand,
+      size: best.size,
+      unit: best.unit,
+      name: best.name,
+      price: best.price,
+      loyaltyPrice: best.loyaltyPrice,
+      options: dedupedOptions,
+      lastUpdated: now,
+    };
+
+    newItemsByStore[store].push(newItem);
+
+    // Flush catalog + checkpoint after every successful item so a crash mid-run
+    // never loses completed work.
+    const total = await flushCatalog(store, [newItem]);
+    await markProcessed(processedByStore, store, itemSlug);
+
+    console.log(
+      `  OK: ${best.name} | £${best.price}` +
+        (best.loyaltyPrice ? ` | loyalty £${best.loyaltyPrice}` : "") +
+        ` | options ${dedupedOptions.length} | catalog now ${total} items`
+    );
   }
 
   for (const store of requestedStores) {
-    const catalogPath = path.join(OUTPUT_DIR, `${store}-catalog.json`);
-
-    let existing: CatalogItem[] = [];
-    if (await pathExists(catalogPath)) {
-      try {
-        existing = JSON.parse(await fs.readFile(catalogPath, "utf8"));
-      } catch {
-        existing = [];
-      }
-    }
-
-    const merged = new Map<string, CatalogItem>();
-    for (const item of existing) merged.set(item.id, item);
-    for (const item of catalogs[store]) merged.set(item.id, item);
-
-    const catalog = [...merged.values()].sort((a, b) =>
-      a.canonicalName.localeCompare(b.canonicalName)
-    );
-
-    await fs.writeFile(catalogPath, JSON.stringify(catalog, null, 2));
-
     console.log(
-      `Wrote ${catalog.length} ${store} items (${catalogs[store].length} new/updated this run)`
+      `Done ${store}: ${newItemsByStore[store].length} new/updated this run`
     );
   }
 }

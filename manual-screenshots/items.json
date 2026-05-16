@@ -205,16 +205,16 @@
     "keywords": ["kitchen towels", "kitchen roll"]
   },
   {
-    "slug": "washing-liquid",
+    "slug": "washing-up-liquid",
     "canonicalName": "laundry detergent",
     "category": "household",
-    "keywords": ["washing liquid", "laundry detergent"]
+    "keywords": ["washing liquid", "laundry detergent", "Capsules", "Washing pods", "Washing Capsules"]
   },
   {
-    "slug": "washing-up-liquid",
-    "canonicalName": "washing up liquid",
+    "slug": "washing-liquid",
+    "canonicalName": "washing liquid",
     "category": "household",
-    "keywords": ["washing up liquid", "dish soap"]
+    "keywords": ["washing up liquid", "dish soap", "fairy"]
   },
   {
     "slug": "shampoo",
