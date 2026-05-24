@@ -1,0 +1,79 @@
+{
+  "store": "sainsburys",
+  "generatedAt": "2026-05-24T02:15:59.182Z",
+  "itemsAdded": [],
+  "itemsRemoved": [],
+  "optionsAdded": [
+    {
+      "itemId": "sainsburys-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Sainsbury's British Whole Milk 568ml",
+      "price": 0.9
+    },
+    {
+      "itemId": "sainsburys-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Sainsbury's British Whole Milk 1.136L",
+      "price": 1.25
+    },
+    {
+      "itemId": "sainsburys-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Sainsbury's British Whole Milk 2.272L",
+      "price": 1.65
+    },
+    {
+      "itemId": "sainsburys-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Tom Parker Creamery Vitamin Enriched Whole Milk 500ml",
+      "price": 1.75
+    },
+    {
+      "itemId": "sainsburys-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Sainsbury's British Filtered Whole Milk 2L",
+      "price": 2.2
+    },
+    {
+      "itemId": "sainsburys-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Sainsbury's British Whole Milk 3.408L",
+      "price": 2.4
+    }
+  ],
+  "optionsRemoved": [
+    {
+      "itemId": "sainsburys-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Sainsbury's British Whole Milk",
+      "previousPrice": 0.9
+    },
+    {
+      "itemId": "sainsburys-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Sainsbury's British Whole Milk",
+      "previousPrice": 1.25
+    },
+    {
+      "itemId": "sainsburys-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Sainsbury's British Whole Milk",
+      "previousPrice": 1.65
+    },
+    {
+      "itemId": "sainsburys-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Sainsbury's British Filtered Whole Milk",
+      "previousPrice": 2.2
+    },
+    {
+      "itemId": "sainsburys-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Sainsbury's British Whole Milk",
+      "previousPrice": 2.4
+    }
+  ],
+  "priceChanges": [],
+  "dealsAdded": [],
+  "dealsRemoved": []
+}

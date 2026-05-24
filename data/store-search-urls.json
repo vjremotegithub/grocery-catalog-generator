@@ -10,5 +10,17 @@
   "aldi": {
     "brand": "Aldi",
     "searchUrl": "https://www.aldi.co.uk/results?q={query}"
+  },
+  "lidl": {
+    "brand": "Lidl",
+    "searchUrl": "https://www.lidl.co.uk/search?q={query}"
+  },
+  "asda": {
+    "brand": "Asda",
+    "searchUrl": "https://groceries.asda.com/search/{query}"
+  },
+  "morrisons": {
+    "brand": "Morrisons",
+    "searchUrl": "https://groceries.morrisons.com/search?entry={query}"
   }
 }

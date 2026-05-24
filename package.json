@@ -5,9 +5,35 @@
   "type": "module",
   "scripts": {
     "generate": "tsx scripts/generate-from-manual-screenshots.ts",
-    "generate:aldi": "tsx scripts/generate-from-manual-screenshots.ts --stores aldi",
-    "generate:sainsburys": "tsx scripts/generate-from-manual-screenshots.ts --stores sainsburys",
+
     "generate:tesco": "tsx scripts/generate-from-manual-screenshots.ts --stores tesco",
+    "generate:sainsburys": "tsx scripts/generate-from-manual-screenshots.ts --stores sainsburys",
+    "generate:aldi": "tsx scripts/generate-from-manual-screenshots.ts --stores aldi",
+    "generate:asda": "tsx scripts/generate-from-manual-screenshots.ts --stores asda",
+    "generate:lidl": "tsx scripts/generate-from-manual-screenshots.ts --stores lidl",
+    "generate:morrisons": "tsx scripts/generate-from-manual-screenshots.ts --stores morrisons",
+
+    "generate:milk": "tsx scripts/generate-from-manual-screenshots.ts --category milk",
+    "generate:eggs": "tsx scripts/generate-from-manual-screenshots.ts --category eggs",
+    "generate:dairy": "tsx scripts/generate-from-manual-screenshots.ts --category dairy",
+    "generate:bakery": "tsx scripts/generate-from-manual-screenshots.ts --category bakery",
+    "generate:breakfast": "tsx scripts/generate-from-manual-screenshots.ts --category breakfast",
+    "generate:cupboard": "tsx scripts/generate-from-manual-screenshots.ts --category cupboard",
+    "generate:vegetables": "tsx scripts/generate-from-manual-screenshots.ts --category vegetables",
+    "generate:fruit": "tsx scripts/generate-from-manual-screenshots.ts --category fruit",
+    "generate:meat": "tsx scripts/generate-from-manual-screenshots.ts --category meat",
+    "generate:seafood": "tsx scripts/generate-from-manual-screenshots.ts --category seafood",
+    "generate:frozen": "tsx scripts/generate-from-manual-screenshots.ts --category frozen",
+    "generate:drinks": "tsx scripts/generate-from-manual-screenshots.ts --category drinks",
+    "generate:alcohol": "tsx scripts/generate-from-manual-screenshots.ts --category alcohol",
+    "generate:snacks": "tsx scripts/generate-from-manual-screenshots.ts --category snacks",
+    "generate:household": "tsx scripts/generate-from-manual-screenshots.ts --category household",
+    "generate:toiletries": "tsx scripts/generate-from-manual-screenshots.ts --category toiletries",
+    "generate:beauty": "tsx scripts/generate-from-manual-screenshots.ts --category beauty",
+    "generate:pet": "tsx scripts/generate-from-manual-screenshots.ts --category pet",
+    "generate:spices": "tsx scripts/generate-from-manual-screenshots.ts --category spices",
+
+    "enrich-tags": "tsx scripts/enrich-catalog-tags.ts",
     "check": "tsc --noEmit"
   },
   "dependencies": {

@@ -1,0 +1,73 @@
+{
+  "store": "tesco",
+  "generatedAt": "2026-05-24T02:15:38.052Z",
+  "itemsAdded": [],
+  "itemsRemoved": [],
+  "optionsAdded": [
+    {
+      "itemId": "tesco-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Tesco British Whole Milk 568ml, 1 Pint",
+      "price": 0.9
+    },
+    {
+      "itemId": "tesco-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Tesco British Whole Milk 1.13L, 2 Pints",
+      "price": 1.2
+    },
+    {
+      "itemId": "tesco-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Tesco British Whole Milk 2.272L, 4 Pints",
+      "price": 1.65
+    },
+    {
+      "itemId": "tesco-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Rodda’s Creamy Top Unhomogenised Whole Milk 1L",
+      "price": 1.65
+    },
+    {
+      "itemId": "tesco-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Tesco Filtered Whole Milk 2 Litre",
+      "price": 2.2
+    }
+  ],
+  "optionsRemoved": [
+    {
+      "itemId": "tesco-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "British Whole Milk 568ml, 1 Pint",
+      "previousPrice": 0.9
+    },
+    {
+      "itemId": "tesco-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "British Whole Milk 1.13L, 2 Pints",
+      "previousPrice": 1.2
+    },
+    {
+      "itemId": "tesco-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "British Whole Milk 2.272L, 4 Pints",
+      "previousPrice": 1.65
+    },
+    {
+      "itemId": "tesco-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Rodda's Creamy Top Unhomogenised Whole Milk",
+      "previousPrice": 1.65
+    },
+    {
+      "itemId": "tesco-whole-milk",
+      "canonicalName": "whole milk",
+      "optionName": "Tesco Filtered Whole Milk",
+      "previousPrice": 2.2
+    }
+  ],
+  "priceChanges": [],
+  "dealsAdded": [],
+  "dealsRemoved": []
+}
